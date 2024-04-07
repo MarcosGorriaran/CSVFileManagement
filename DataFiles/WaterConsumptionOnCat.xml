@@ -5,7 +5,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>45540</Poblacio>
-    <Domestic_x0020_xarxa>1685688</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1685688</Domestic_xarxa>
     <Activitats_economicas>3040038</Activitats_economicas>
     <Total>4725726</Total>
     <Consum_domestic_per_capita>101.41</Consum_domestic_per_capita>
@@ -15,7 +15,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>144926</Poblacio>
-    <Domestic_x0020_xarxa>8593650</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8593650</Domestic_xarxa>
     <Activitats_economicas>4831755</Activitats_economicas>
     <Total>13425405</Total>
     <Consum_domestic_per_capita>162.46</Consum_domestic_per_capita>
@@ -25,7 +25,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>110929</Poblacio>
-    <Domestic_x0020_xarxa>4533398</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4533398</Domestic_xarxa>
     <Activitats_economicas>3262053</Activitats_economicas>
     <Total>7795451</Total>
     <Consum_domestic_per_capita>111.97</Consum_domestic_per_capita>
@@ -35,7 +35,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20482</Poblacio>
-    <Domestic_x0020_xarxa>1016456</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1016456</Domestic_xarxa>
     <Activitats_economicas>1467236</Activitats_economicas>
     <Total>2483692</Total>
     <Consum_domestic_per_capita>135.96</Consum_domestic_per_capita>
@@ -45,7 +45,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3958</Poblacio>
-    <Domestic_x0020_xarxa>469071</Domestic_x0020_xarxa>
+    <Domestic_xarxa>469071</Domestic_xarxa>
     <Activitats_economicas>271619</Activitats_economicas>
     <Total>740690</Total>
     <Consum_domestic_per_capita>324.69</Consum_domestic_per_capita>
@@ -55,7 +55,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>125065</Poblacio>
-    <Domestic_x0020_xarxa>4977903</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4977903</Domestic_xarxa>
     <Activitats_economicas>5752687</Activitats_economicas>
     <Total>10730590</Total>
     <Consum_domestic_per_capita>109.05</Consum_domestic_per_capita>
@@ -65,7 +65,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>180873</Poblacio>
-    <Domestic_x0020_xarxa>7245892</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7245892</Domestic_xarxa>
     <Activitats_economicas>6808136</Activitats_economicas>
     <Total>14054028</Total>
     <Consum_domestic_per_capita>109.76</Consum_domestic_per_capita>
@@ -75,7 +75,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>197525</Poblacio>
-    <Domestic_x0020_xarxa>9839320</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9839320</Domestic_xarxa>
     <Activitats_economicas>5717291</Activitats_economicas>
     <Total>15556611</Total>
     <Consum_domestic_per_capita>136.47</Consum_domestic_per_capita>
@@ -85,7 +85,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>79636</Poblacio>
-    <Domestic_x0020_xarxa>3368526</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3368526</Domestic_xarxa>
     <Activitats_economicas>4459442</Activitats_economicas>
     <Total>7827968</Total>
     <Consum_domestic_per_capita>115.89</Consum_domestic_per_capita>
@@ -95,7 +95,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>138517</Poblacio>
-    <Domestic_x0020_xarxa>11071935</Domestic_x0020_xarxa>
+    <Domestic_xarxa>11071935</Domestic_xarxa>
     <Activitats_economicas>6503559</Activitats_economicas>
     <Total>17575494</Total>
     <Consum_domestic_per_capita>218.99</Consum_domestic_per_capita>
@@ -105,7 +105,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>833540</Poblacio>
-    <Domestic_x0020_xarxa>32609245</Domestic_x0020_xarxa>
+    <Domestic_xarxa>32609245</Domestic_xarxa>
     <Activitats_economicas>25025849</Activitats_economicas>
     <Total>57635094</Total>
     <Consum_domestic_per_capita>107.18</Consum_domestic_per_capita>
@@ -115,7 +115,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>112460</Poblacio>
-    <Domestic_x0020_xarxa>6647116</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6647116</Domestic_xarxa>
     <Activitats_economicas>2234536</Activitats_economicas>
     <Total>8881652</Total>
     <Consum_domestic_per_capita>161.94</Consum_domestic_per_capita>
@@ -125,7 +125,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2280042</Poblacio>
-    <Domestic_x0020_xarxa>85597398</Domestic_x0020_xarxa>
+    <Domestic_xarxa>85597398</Domestic_xarxa>
     <Activitats_economicas>41264991</Activitats_economicas>
     <Total>126862389</Total>
     <Consum_domestic_per_capita>102.85</Consum_domestic_per_capita>
@@ -135,7 +135,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>40279</Poblacio>
-    <Domestic_x0020_xarxa>1433782</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1433782</Domestic_xarxa>
     <Activitats_economicas>1069281</Activitats_economicas>
     <Total>2503063</Total>
     <Consum_domestic_per_capita>97.52</Consum_domestic_per_capita>
@@ -145,7 +145,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>19443</Poblacio>
-    <Domestic_x0020_xarxa>1451755</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1451755</Domestic_xarxa>
     <Activitats_economicas>2110072</Activitats_economicas>
     <Total>3561827</Total>
     <Consum_domestic_per_capita>204.57</Consum_domestic_per_capita>
@@ -155,7 +155,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20176</Poblacio>
-    <Domestic_x0020_xarxa>711946</Domestic_x0020_xarxa>
+    <Domestic_xarxa>711946</Domestic_xarxa>
     <Activitats_economicas>697952</Activitats_economicas>
     <Total>1409898</Total>
     <Consum_domestic_per_capita>96.68</Consum_domestic_per_capita>
@@ -165,7 +165,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>156794</Poblacio>
-    <Domestic_x0020_xarxa>7822472</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7822472</Domestic_xarxa>
     <Activitats_economicas>2757978</Activitats_economicas>
     <Total>10580450</Total>
     <Consum_domestic_per_capita>136.69</Consum_domestic_per_capita>
@@ -175,7 +175,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>19011</Poblacio>
-    <Domestic_x0020_xarxa>692341</Domestic_x0020_xarxa>
+    <Domestic_xarxa>692341</Domestic_xarxa>
     <Activitats_economicas>947525</Activitats_economicas>
     <Total>1639866</Total>
     <Consum_domestic_per_capita>99.78</Consum_domestic_per_capita>
@@ -185,7 +185,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>59750</Poblacio>
-    <Domestic_x0020_xarxa>2491915</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2491915</Domestic_xarxa>
     <Activitats_economicas>4213288</Activitats_economicas>
     <Total>6705203</Total>
     <Consum_domestic_per_capita>114.26</Consum_domestic_per_capita>
@@ -195,7 +195,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>198582</Poblacio>
-    <Domestic_x0020_xarxa>7673150</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7673150</Domestic_xarxa>
     <Activitats_economicas>7122798</Activitats_economicas>
     <Total>14795948</Total>
     <Consum_domestic_per_capita>105.86</Consum_domestic_per_capita>
@@ -205,7 +205,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>462213</Poblacio>
-    <Domestic_x0020_xarxa>21166971</Domestic_x0020_xarxa>
+    <Domestic_xarxa>21166971</Domestic_xarxa>
     <Activitats_economicas>8985054</Activitats_economicas>
     <Total>30152025</Total>
     <Consum_domestic_per_capita>125.47</Consum_domestic_per_capita>
@@ -215,7 +215,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>14428</Poblacio>
-    <Domestic_x0020_xarxa>624914</Domestic_x0020_xarxa>
+    <Domestic_xarxa>624914</Domestic_xarxa>
     <Activitats_economicas>697786</Activitats_economicas>
     <Total>1322700</Total>
     <Consum_domestic_per_capita>118.66</Consum_domestic_per_capita>
@@ -225,7 +225,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>68744</Poblacio>
-    <Domestic_x0020_xarxa>2729045</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2729045</Domestic_xarxa>
     <Activitats_economicas>1989461</Activitats_economicas>
     <Total>4718506</Total>
     <Consum_domestic_per_capita>108.76</Consum_domestic_per_capita>
@@ -235,7 +235,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39297</Poblacio>
-    <Domestic_x0020_xarxa>1823230</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1823230</Domestic_xarxa>
     <Activitats_economicas>1727509</Activitats_economicas>
     <Total>3550739</Total>
     <Consum_domestic_per_capita>127.11</Consum_domestic_per_capita>
@@ -245,7 +245,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>165229</Poblacio>
-    <Domestic_x0020_xarxa>6516741</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6516741</Domestic_xarxa>
     <Activitats_economicas>8413231</Activitats_economicas>
     <Total>14929972</Total>
     <Consum_domestic_per_capita>108.06</Consum_domestic_per_capita>
@@ -255,7 +255,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13199</Poblacio>
-    <Domestic_x0020_xarxa>824651</Domestic_x0020_xarxa>
+    <Domestic_xarxa>824651</Domestic_xarxa>
     <Activitats_economicas>248909</Activitats_economicas>
     <Total>1073560</Total>
     <Consum_domestic_per_capita>171.17</Consum_domestic_per_capita>
@@ -265,7 +265,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7181</Poblacio>
-    <Domestic_x0020_xarxa>557519</Domestic_x0020_xarxa>
+    <Domestic_xarxa>557519</Domestic_xarxa>
     <Activitats_economicas>561193</Activitats_economicas>
     <Total>1118712</Total>
     <Consum_domestic_per_capita>212.71</Consum_domestic_per_capita>
@@ -275,7 +275,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>37045</Poblacio>
-    <Domestic_x0020_xarxa>1626134</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1626134</Domestic_xarxa>
     <Activitats_economicas>4116660</Activitats_economicas>
     <Total>5742794</Total>
     <Consum_domestic_per_capita>120.26</Consum_domestic_per_capita>
@@ -285,7 +285,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>32941</Poblacio>
-    <Domestic_x0020_xarxa>1409299</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1409299</Domestic_xarxa>
     <Activitats_economicas>1666188</Activitats_economicas>
     <Total>3075487</Total>
     <Consum_domestic_per_capita>117.21</Consum_domestic_per_capita>
@@ -295,7 +295,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9238</Poblacio>
-    <Domestic_x0020_xarxa>331682</Domestic_x0020_xarxa>
+    <Domestic_xarxa>331682</Domestic_xarxa>
     <Activitats_economicas>139442</Activitats_economicas>
     <Total>471124</Total>
     <Consum_domestic_per_capita>98.37</Consum_domestic_per_capita>
@@ -305,7 +305,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>21920</Poblacio>
-    <Domestic_x0020_xarxa>1000911</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1000911</Domestic_xarxa>
     <Activitats_economicas>2410243</Activitats_economicas>
     <Total>3411154</Total>
     <Consum_domestic_per_capita>125.1</Consum_domestic_per_capita>
@@ -315,7 +315,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25510</Poblacio>
-    <Domestic_x0020_xarxa>1093604</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1093604</Domestic_xarxa>
     <Activitats_economicas>1311974</Activitats_economicas>
     <Total>2405578</Total>
     <Consum_domestic_per_capita>117.45</Consum_domestic_per_capita>
@@ -325,7 +325,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>23601</Poblacio>
-    <Domestic_x0020_xarxa>922385</Domestic_x0020_xarxa>
+    <Domestic_xarxa>922385</Domestic_xarxa>
     <Activitats_economicas>2764766</Activitats_economicas>
     <Total>3687151</Total>
     <Consum_domestic_per_capita>107.08</Consum_domestic_per_capita>
@@ -335,7 +335,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>212388</Poblacio>
-    <Domestic_x0020_xarxa>9646017</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9646017</Domestic_xarxa>
     <Activitats_economicas>8669391</Activitats_economicas>
     <Total>18315408</Total>
     <Consum_domestic_per_capita>124.43</Consum_domestic_per_capita>
@@ -345,7 +345,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>177542</Poblacio>
-    <Domestic_x0020_xarxa>9089937</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9089937</Domestic_xarxa>
     <Activitats_economicas>9436421</Activitats_economicas>
     <Total>18526358</Total>
     <Consum_domestic_per_capita>140.27</Consum_domestic_per_capita>
@@ -355,7 +355,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13632</Poblacio>
-    <Domestic_x0020_xarxa>569525</Domestic_x0020_xarxa>
+    <Domestic_xarxa>569525</Domestic_xarxa>
     <Activitats_economicas>738564</Activitats_economicas>
     <Total>1308089</Total>
     <Consum_domestic_per_capita>114.46</Consum_domestic_per_capita>
@@ -365,7 +365,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>263428</Poblacio>
-    <Domestic_x0020_xarxa>13236385</Domestic_x0020_xarxa>
+    <Domestic_xarxa>13236385</Domestic_xarxa>
     <Activitats_economicas>42708805</Activitats_economicas>
     <Total>55945190</Total>
     <Consum_domestic_per_capita>137.66</Consum_domestic_per_capita>
@@ -375,7 +375,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11408</Poblacio>
-    <Domestic_x0020_xarxa>390444</Domestic_x0020_xarxa>
+    <Domestic_xarxa>390444</Domestic_xarxa>
     <Activitats_economicas>260990</Activitats_economicas>
     <Total>651434</Total>
     <Consum_domestic_per_capita>93.77</Consum_domestic_per_capita>
@@ -385,7 +385,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>37447</Poblacio>
-    <Domestic_x0020_xarxa>1556541</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1556541</Domestic_xarxa>
     <Activitats_economicas>1269562</Activitats_economicas>
     <Total>2826103</Total>
     <Consum_domestic_per_capita>113.88</Consum_domestic_per_capita>
@@ -395,7 +395,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10268</Poblacio>
-    <Domestic_x0020_xarxa>1397874</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1397874</Domestic_xarxa>
     <Activitats_economicas>903296</Activitats_economicas>
     <Total>2301170</Total>
     <Consum_domestic_per_capita>372.98</Consum_domestic_per_capita>
@@ -405,7 +405,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>940881</Poblacio>
-    <Domestic_x0020_xarxa>37373574</Domestic_x0020_xarxa>
+    <Domestic_xarxa>37373574</Domestic_xarxa>
     <Activitats_economicas>22631442</Activitats_economicas>
     <Total>60005016</Total>
     <Consum_domestic_per_capita>108.83</Consum_domestic_per_capita>
@@ -415,7 +415,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>417543</Poblacio>
-    <Domestic_x0020_xarxa>17225409</Domestic_x0020_xarxa>
+    <Domestic_xarxa>17225409</Domestic_xarxa>
     <Activitats_economicas>13969890</Activitats_economicas>
     <Total>31195299</Total>
     <Consum_domestic_per_capita>113.03</Consum_domestic_per_capita>
@@ -425,7 +425,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>45045</Poblacio>
-    <Domestic_x0020_xarxa>1714466</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1714466</Domestic_xarxa>
     <Activitats_economicas>2915294</Activitats_economicas>
     <Total>4629760</Total>
     <Consum_domestic_per_capita>104.28</Consum_domestic_per_capita>
@@ -435,7 +435,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>143762</Poblacio>
-    <Domestic_x0020_xarxa>8595769</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8595769</Domestic_xarxa>
     <Activitats_economicas>4172993</Activitats_economicas>
     <Total>12768762</Total>
     <Consum_domestic_per_capita>163.81</Consum_domestic_per_capita>
@@ -445,7 +445,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>110172</Poblacio>
-    <Domestic_x0020_xarxa>4603268</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4603268</Domestic_xarxa>
     <Activitats_economicas>3011623</Activitats_economicas>
     <Total>7614891</Total>
     <Consum_domestic_per_capita>114.47</Consum_domestic_per_capita>
@@ -455,7 +455,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20453</Poblacio>
-    <Domestic_x0020_xarxa>1053239</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1053239</Domestic_xarxa>
     <Activitats_economicas>1416721</Activitats_economicas>
     <Total>2469960</Total>
     <Consum_domestic_per_capita>141.08</Consum_domestic_per_capita>
@@ -465,7 +465,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3945</Poblacio>
-    <Domestic_x0020_xarxa>461015</Domestic_x0020_xarxa>
+    <Domestic_xarxa>461015</Domestic_xarxa>
     <Activitats_economicas>201657</Activitats_economicas>
     <Total>662672</Total>
     <Consum_domestic_per_capita>320.17</Consum_domestic_per_capita>
@@ -475,7 +475,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>124112</Poblacio>
-    <Domestic_x0020_xarxa>5182118</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5182118</Domestic_xarxa>
     <Activitats_economicas>6005787</Activitats_economicas>
     <Total>11187905</Total>
     <Consum_domestic_per_capita>114.39</Consum_domestic_per_capita>
@@ -485,7 +485,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>180962</Poblacio>
-    <Domestic_x0020_xarxa>7609029</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7609029</Domestic_xarxa>
     <Activitats_economicas>6271304</Activitats_economicas>
     <Total>13880333</Total>
     <Consum_domestic_per_capita>115.2</Consum_domestic_per_capita>
@@ -495,7 +495,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>195098</Poblacio>
-    <Domestic_x0020_xarxa>9821710</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9821710</Domestic_xarxa>
     <Activitats_economicas>5573863</Activitats_economicas>
     <Total>15395573</Total>
     <Consum_domestic_per_capita>137.92</Consum_domestic_per_capita>
@@ -505,7 +505,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>78721</Poblacio>
-    <Domestic_x0020_xarxa>3414757</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3414757</Domestic_xarxa>
     <Activitats_economicas>4655762</Activitats_economicas>
     <Total>8070519</Total>
     <Consum_domestic_per_capita>118.84</Consum_domestic_per_capita>
@@ -515,7 +515,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>137268</Poblacio>
-    <Domestic_x0020_xarxa>10749300</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10749300</Domestic_xarxa>
     <Activitats_economicas>5741767</Activitats_economicas>
     <Total>16491067</Total>
     <Consum_domestic_per_capita>214.54</Consum_domestic_per_capita>
@@ -525,7 +525,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>833312</Poblacio>
-    <Domestic_x0020_xarxa>34192024</Domestic_x0020_xarxa>
+    <Domestic_xarxa>34192024</Domestic_xarxa>
     <Activitats_economicas>23162533</Activitats_economicas>
     <Total>57354557</Total>
     <Consum_domestic_per_capita>112.42</Consum_domestic_per_capita>
@@ -535,7 +535,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>110439</Poblacio>
-    <Domestic_x0020_xarxa>6804378</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6804378</Domestic_xarxa>
     <Activitats_economicas>1949171</Activitats_economicas>
     <Total>8753549</Total>
     <Consum_domestic_per_capita>168.8</Consum_domestic_per_capita>
@@ -545,7 +545,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2280967</Poblacio>
-    <Domestic_x0020_xarxa>87617832</Domestic_x0020_xarxa>
+    <Domestic_xarxa>87617832</Domestic_xarxa>
     <Activitats_economicas>34631711</Activitats_economicas>
     <Total>122249543</Total>
     <Consum_domestic_per_capita>105.24</Consum_domestic_per_capita>
@@ -555,7 +555,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>40004</Poblacio>
-    <Domestic_x0020_xarxa>1504130</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1504130</Domestic_xarxa>
     <Activitats_economicas>1057962</Activitats_economicas>
     <Total>2562092</Total>
     <Consum_domestic_per_capita>103.01</Consum_domestic_per_capita>
@@ -565,7 +565,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>19230</Poblacio>
-    <Domestic_x0020_xarxa>1412914</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1412914</Domestic_xarxa>
     <Activitats_economicas>2053735</Activitats_economicas>
     <Total>3466649</Total>
     <Consum_domestic_per_capita>201.3</Consum_domestic_per_capita>
@@ -575,7 +575,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20104</Poblacio>
-    <Domestic_x0020_xarxa>741923</Domestic_x0020_xarxa>
+    <Domestic_xarxa>741923</Domestic_xarxa>
     <Activitats_economicas>647465</Activitats_economicas>
     <Total>1389388</Total>
     <Consum_domestic_per_capita>101.11</Consum_domestic_per_capita>
@@ -585,7 +585,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>154264</Poblacio>
-    <Domestic_x0020_xarxa>7899473</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7899473</Domestic_xarxa>
     <Activitats_economicas>2482153</Activitats_economicas>
     <Total>10381626</Total>
     <Consum_domestic_per_capita>140.29</Consum_domestic_per_capita>
@@ -595,7 +595,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>19010</Poblacio>
-    <Domestic_x0020_xarxa>724839</Domestic_x0020_xarxa>
+    <Domestic_xarxa>724839</Domestic_xarxa>
     <Activitats_economicas>1031376</Activitats_economicas>
     <Total>1756215</Total>
     <Consum_domestic_per_capita>104.46</Consum_domestic_per_capita>
@@ -605,7 +605,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>59163</Poblacio>
-    <Domestic_x0020_xarxa>2500951</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2500951</Domestic_xarxa>
     <Activitats_economicas>4075751</Activitats_economicas>
     <Total>6576702</Total>
     <Consum_domestic_per_capita>115.81</Consum_domestic_per_capita>
@@ -615,7 +615,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>196768</Poblacio>
-    <Domestic_x0020_xarxa>7972533</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7972533</Domestic_xarxa>
     <Activitats_economicas>7013444</Activitats_economicas>
     <Total>14985977</Total>
     <Consum_domestic_per_capita>111.01</Consum_domestic_per_capita>
@@ -625,7 +625,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>459625</Poblacio>
-    <Domestic_x0020_xarxa>21500298</Domestic_x0020_xarxa>
+    <Domestic_xarxa>21500298</Domestic_xarxa>
     <Activitats_economicas>8071578</Activitats_economicas>
     <Total>29571876</Total>
     <Consum_domestic_per_capita>128.16</Consum_domestic_per_capita>
@@ -635,7 +635,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>14243</Poblacio>
-    <Domestic_x0020_xarxa>675920</Domestic_x0020_xarxa>
+    <Domestic_xarxa>675920</Domestic_xarxa>
     <Activitats_economicas>669991</Activitats_economicas>
     <Total>1345911</Total>
     <Consum_domestic_per_capita>130.02</Consum_domestic_per_capita>
@@ -645,7 +645,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>68397</Poblacio>
-    <Domestic_x0020_xarxa>2836697</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2836697</Domestic_xarxa>
     <Activitats_economicas>1935397</Activitats_economicas>
     <Total>4772094</Total>
     <Consum_domestic_per_capita>113.63</Consum_domestic_per_capita>
@@ -655,7 +655,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39169</Poblacio>
-    <Domestic_x0020_xarxa>1829434</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1829434</Domestic_xarxa>
     <Activitats_economicas>1705103</Activitats_economicas>
     <Total>3534537</Total>
     <Consum_domestic_per_capita>127.96</Consum_domestic_per_capita>
@@ -665,7 +665,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>164077</Poblacio>
-    <Domestic_x0020_xarxa>6657825</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6657825</Domestic_xarxa>
     <Activitats_economicas>8233359</Activitats_economicas>
     <Total>14891184</Total>
     <Consum_domestic_per_capita>111.17</Consum_domestic_per_capita>
@@ -675,7 +675,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13170</Poblacio>
-    <Domestic_x0020_xarxa>807845</Domestic_x0020_xarxa>
+    <Domestic_xarxa>807845</Domestic_xarxa>
     <Activitats_economicas>257622</Activitats_economicas>
     <Total>1065467</Total>
     <Consum_domestic_per_capita>168.05</Consum_domestic_per_capita>
@@ -685,7 +685,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7101</Poblacio>
-    <Domestic_x0020_xarxa>569639</Domestic_x0020_xarxa>
+    <Domestic_xarxa>569639</Domestic_xarxa>
     <Activitats_economicas>565576</Activitats_economicas>
     <Total>1135215</Total>
     <Consum_domestic_per_capita>219.78</Consum_domestic_per_capita>
@@ -695,7 +695,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36769</Poblacio>
-    <Domestic_x0020_xarxa>1684890</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1684890</Domestic_xarxa>
     <Activitats_economicas>4169719</Activitats_economicas>
     <Total>5854609</Total>
     <Consum_domestic_per_capita>125.54</Consum_domestic_per_capita>
@@ -705,7 +705,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>32876</Poblacio>
-    <Domestic_x0020_xarxa>1390103</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1390103</Domestic_xarxa>
     <Activitats_economicas>1442415</Activitats_economicas>
     <Total>2832518</Total>
     <Consum_domestic_per_capita>115.84</Consum_domestic_per_capita>
@@ -715,7 +715,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9239</Poblacio>
-    <Domestic_x0020_xarxa>347558</Domestic_x0020_xarxa>
+    <Domestic_xarxa>347558</Domestic_xarxa>
     <Activitats_economicas>133327</Activitats_economicas>
     <Total>480885</Total>
     <Consum_domestic_per_capita>103.06</Consum_domestic_per_capita>
@@ -725,7 +725,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>21864</Poblacio>
-    <Domestic_x0020_xarxa>997496</Domestic_x0020_xarxa>
+    <Domestic_xarxa>997496</Domestic_xarxa>
     <Activitats_economicas>2944806</Activitats_economicas>
     <Total>3942302</Total>
     <Consum_domestic_per_capita>124.99</Consum_domestic_per_capita>
@@ -735,7 +735,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25449</Poblacio>
-    <Domestic_x0020_xarxa>1131161</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1131161</Domestic_xarxa>
     <Activitats_economicas>1110032</Activitats_economicas>
     <Total>2241193</Total>
     <Consum_domestic_per_capita>121.78</Consum_domestic_per_capita>
@@ -745,7 +745,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>23412</Poblacio>
-    <Domestic_x0020_xarxa>863188</Domestic_x0020_xarxa>
+    <Domestic_xarxa>863188</Domestic_xarxa>
     <Activitats_economicas>2685024</Activitats_economicas>
     <Total>3548212</Total>
     <Consum_domestic_per_capita>101.01</Consum_domestic_per_capita>
@@ -755,7 +755,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>211609</Poblacio>
-    <Domestic_x0020_xarxa>9911298</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9911298</Domestic_xarxa>
     <Activitats_economicas>7487500</Activitats_economicas>
     <Total>17398798</Total>
     <Consum_domestic_per_capita>128.32</Consum_domestic_per_capita>
@@ -765,7 +765,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>175702</Poblacio>
-    <Domestic_x0020_xarxa>9031113</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9031113</Domestic_xarxa>
     <Activitats_economicas>8730934</Activitats_economicas>
     <Total>17762047</Total>
     <Consum_domestic_per_capita>140.82</Consum_domestic_per_capita>
@@ -775,7 +775,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13600</Poblacio>
-    <Domestic_x0020_xarxa>568287</Domestic_x0020_xarxa>
+    <Domestic_xarxa>568287</Domestic_xarxa>
     <Activitats_economicas>704048</Activitats_economicas>
     <Total>1272335</Total>
     <Consum_domestic_per_capita>114.48</Consum_domestic_per_capita>
@@ -785,7 +785,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>262001</Poblacio>
-    <Domestic_x0020_xarxa>13214891</Domestic_x0020_xarxa>
+    <Domestic_xarxa>13214891</Domestic_xarxa>
     <Activitats_economicas>40877304</Activitats_economicas>
     <Total>54092195</Total>
     <Consum_domestic_per_capita>138.19</Consum_domestic_per_capita>
@@ -795,7 +795,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11401</Poblacio>
-    <Domestic_x0020_xarxa>408164</Domestic_x0020_xarxa>
+    <Domestic_xarxa>408164</Domestic_xarxa>
     <Activitats_economicas>203401</Activitats_economicas>
     <Total>611565</Total>
     <Consum_domestic_per_capita>98.08</Consum_domestic_per_capita>
@@ -805,7 +805,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>37276</Poblacio>
-    <Domestic_x0020_xarxa>1599319</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1599319</Domestic_xarxa>
     <Activitats_economicas>1253057</Activitats_economicas>
     <Total>2852376</Total>
     <Consum_domestic_per_capita>117.55</Consum_domestic_per_capita>
@@ -815,7 +815,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10372</Poblacio>
-    <Domestic_x0020_xarxa>1391774</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1391774</Domestic_xarxa>
     <Activitats_economicas>928523</Activitats_economicas>
     <Total>2320297</Total>
     <Consum_domestic_per_capita>367.63</Consum_domestic_per_capita>
@@ -825,7 +825,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>937422</Poblacio>
-    <Domestic_x0020_xarxa>38835630</Domestic_x0020_xarxa>
+    <Domestic_xarxa>38835630</Domestic_xarxa>
     <Activitats_economicas>22448842</Activitats_economicas>
     <Total>61284472</Total>
     <Consum_domestic_per_capita>113.5</Consum_domestic_per_capita>
@@ -835,7 +835,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>415789</Poblacio>
-    <Domestic_x0020_xarxa>17604767</Domestic_x0020_xarxa>
+    <Domestic_xarxa>17604767</Domestic_xarxa>
     <Activitats_economicas>13078062</Activitats_economicas>
     <Total>30682829</Total>
     <Consum_domestic_per_capita>116</Consum_domestic_per_capita>
@@ -845,7 +845,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44695</Poblacio>
-    <Domestic_x0020_xarxa>1739657</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1739657</Domestic_xarxa>
     <Activitats_economicas>2765098</Activitats_economicas>
     <Total>4504755</Total>
     <Consum_domestic_per_capita>106.64</Consum_domestic_per_capita>
@@ -855,7 +855,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>142624</Poblacio>
-    <Domestic_x0020_xarxa>8213884</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8213884</Domestic_xarxa>
     <Activitats_economicas>3763326</Activitats_economicas>
     <Total>11977210</Total>
     <Consum_domestic_per_capita>157.78</Consum_domestic_per_capita>
@@ -865,7 +865,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>109606</Poblacio>
-    <Domestic_x0020_xarxa>4631724</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4631724</Domestic_xarxa>
     <Activitats_economicas>2826014</Activitats_economicas>
     <Total>7457738</Total>
     <Consum_domestic_per_capita>115.78</Consum_domestic_per_capita>
@@ -875,7 +875,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20231</Poblacio>
-    <Domestic_x0020_xarxa>998866</Domestic_x0020_xarxa>
+    <Domestic_xarxa>998866</Domestic_xarxa>
     <Activitats_economicas>1246176</Activitats_economicas>
     <Total>2245042</Total>
     <Consum_domestic_per_capita>135.27</Consum_domestic_per_capita>
@@ -885,7 +885,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3825</Poblacio>
-    <Domestic_x0020_xarxa>462235</Domestic_x0020_xarxa>
+    <Domestic_xarxa>462235</Domestic_xarxa>
     <Activitats_economicas>328691</Activitats_economicas>
     <Total>790926</Total>
     <Consum_domestic_per_capita>331.08</Consum_domestic_per_capita>
@@ -895,7 +895,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>123024</Poblacio>
-    <Domestic_x0020_xarxa>5237834</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5237834</Domestic_xarxa>
     <Activitats_economicas>5737053</Activitats_economicas>
     <Total>10974887</Total>
     <Consum_domestic_per_capita>116.65</Consum_domestic_per_capita>
@@ -905,7 +905,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>180575</Poblacio>
-    <Domestic_x0020_xarxa>7693992</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7693992</Domestic_xarxa>
     <Activitats_economicas>5930717</Activitats_economicas>
     <Total>13624709</Total>
     <Consum_domestic_per_capita>116.74</Consum_domestic_per_capita>
@@ -915,7 +915,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>194127</Poblacio>
-    <Domestic_x0020_xarxa>9818470</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9818470</Domestic_xarxa>
     <Activitats_economicas>5103559</Activitats_economicas>
     <Total>14922029</Total>
     <Consum_domestic_per_capita>138.57</Consum_domestic_per_capita>
@@ -925,7 +925,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>78011</Poblacio>
-    <Domestic_x0020_xarxa>3503009</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3503009</Domestic_xarxa>
     <Activitats_economicas>4246346</Activitats_economicas>
     <Total>7749355</Total>
     <Consum_domestic_per_capita>123.02</Consum_domestic_per_capita>
@@ -935,7 +935,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>135805</Poblacio>
-    <Domestic_x0020_xarxa>10258046</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10258046</Domestic_xarxa>
     <Activitats_economicas>5056592</Activitats_economicas>
     <Total>15314638</Total>
     <Consum_domestic_per_capita>206.95</Consum_domestic_per_capita>
@@ -945,7 +945,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>834653</Poblacio>
-    <Domestic_x0020_xarxa>34819985</Domestic_x0020_xarxa>
+    <Domestic_xarxa>34819985</Domestic_xarxa>
     <Activitats_economicas>22181562</Activitats_economicas>
     <Total>57001547</Total>
     <Consum_domestic_per_capita>114.3</Consum_domestic_per_capita>
@@ -955,7 +955,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>107803</Poblacio>
-    <Domestic_x0020_xarxa>6546748</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6546748</Domestic_xarxa>
     <Activitats_economicas>1836060</Activitats_economicas>
     <Total>8382808</Total>
     <Consum_domestic_per_capita>166.38</Consum_domestic_per_capita>
@@ -965,7 +965,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2314620</Poblacio>
-    <Domestic_x0020_xarxa>93135769</Domestic_x0020_xarxa>
+    <Domestic_xarxa>93135769</Domestic_xarxa>
     <Activitats_economicas>33065103</Activitats_economicas>
     <Total>126200872</Total>
     <Consum_domestic_per_capita>110.24</Consum_domestic_per_capita>
@@ -975,7 +975,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39980</Poblacio>
-    <Domestic_x0020_xarxa>1492692</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1492692</Domestic_xarxa>
     <Activitats_economicas>1048754</Activitats_economicas>
     <Total>2541446</Total>
     <Consum_domestic_per_capita>102.29</Consum_domestic_per_capita>
@@ -985,7 +985,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>18525</Poblacio>
-    <Domestic_x0020_xarxa>1460081</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1460081</Domestic_xarxa>
     <Activitats_economicas>1715563</Activitats_economicas>
     <Total>3175644</Total>
     <Consum_domestic_per_capita>215.94</Consum_domestic_per_capita>
@@ -995,7 +995,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>19947</Poblacio>
-    <Domestic_x0020_xarxa>794102</Domestic_x0020_xarxa>
+    <Domestic_xarxa>794102</Domestic_xarxa>
     <Activitats_economicas>544995</Activitats_economicas>
     <Total>1339097</Total>
     <Consum_domestic_per_capita>109.07</Consum_domestic_per_capita>
@@ -1005,7 +1005,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>152801</Poblacio>
-    <Domestic_x0020_xarxa>7890729</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7890729</Domestic_xarxa>
     <Activitats_economicas>2265947</Activitats_economicas>
     <Total>10156676</Total>
     <Consum_domestic_per_capita>141.48</Consum_domestic_per_capita>
@@ -1015,7 +1015,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>18873</Poblacio>
-    <Domestic_x0020_xarxa>762027</Domestic_x0020_xarxa>
+    <Domestic_xarxa>762027</Domestic_xarxa>
     <Activitats_economicas>807156</Activitats_economicas>
     <Total>1569183</Total>
     <Consum_domestic_per_capita>110.62</Consum_domestic_per_capita>
@@ -1025,7 +1025,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>58620</Poblacio>
-    <Domestic_x0020_xarxa>2575160</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2575160</Domestic_xarxa>
     <Activitats_economicas>3741090</Activitats_economicas>
     <Total>6316250</Total>
     <Consum_domestic_per_capita>120.36</Consum_domestic_per_capita>
@@ -1035,7 +1035,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>197104</Poblacio>
-    <Domestic_x0020_xarxa>7923915</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7923915</Domestic_xarxa>
     <Activitats_economicas>6691534</Activitats_economicas>
     <Total>14615449</Total>
     <Consum_domestic_per_capita>110.14</Consum_domestic_per_capita>
@@ -1045,7 +1045,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>458626</Poblacio>
-    <Domestic_x0020_xarxa>22190829</Domestic_x0020_xarxa>
+    <Domestic_xarxa>22190829</Domestic_xarxa>
     <Activitats_economicas>7576607</Activitats_economicas>
     <Total>29767436</Total>
     <Consum_domestic_per_capita>132.56</Consum_domestic_per_capita>
@@ -1055,7 +1055,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13919</Poblacio>
-    <Domestic_x0020_xarxa>658508</Domestic_x0020_xarxa>
+    <Domestic_xarxa>658508</Domestic_xarxa>
     <Activitats_economicas>553520</Activitats_economicas>
     <Total>1212028</Total>
     <Consum_domestic_per_capita>129.62</Consum_domestic_per_capita>
@@ -1065,7 +1065,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>68263</Poblacio>
-    <Domestic_x0020_xarxa>2863081</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2863081</Domestic_xarxa>
     <Activitats_economicas>1865926</Activitats_economicas>
     <Total>4729007</Total>
     <Consum_domestic_per_capita>114.91</Consum_domestic_per_capita>
@@ -1075,7 +1075,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39132</Poblacio>
-    <Domestic_x0020_xarxa>1812182</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1812182</Domestic_xarxa>
     <Activitats_economicas>1682269</Activitats_economicas>
     <Total>3494451</Total>
     <Consum_domestic_per_capita>126.88</Consum_domestic_per_capita>
@@ -1085,7 +1085,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>163702</Poblacio>
-    <Domestic_x0020_xarxa>6757954</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6757954</Domestic_xarxa>
     <Activitats_economicas>7920903</Activitats_economicas>
     <Total>14678857</Total>
     <Consum_domestic_per_capita>113.1</Consum_domestic_per_capita>
@@ -1095,7 +1095,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13227</Poblacio>
-    <Domestic_x0020_xarxa>800873</Domestic_x0020_xarxa>
+    <Domestic_xarxa>800873</Domestic_xarxa>
     <Activitats_economicas>253477</Activitats_economicas>
     <Total>1054350</Total>
     <Consum_domestic_per_capita>165.89</Consum_domestic_per_capita>
@@ -1105,7 +1105,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>6930</Poblacio>
-    <Domestic_x0020_xarxa>561646</Domestic_x0020_xarxa>
+    <Domestic_xarxa>561646</Domestic_xarxa>
     <Activitats_economicas>556285</Activitats_economicas>
     <Total>1117931</Total>
     <Consum_domestic_per_capita>222.04</Consum_domestic_per_capita>
@@ -1115,7 +1115,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36737</Poblacio>
-    <Domestic_x0020_xarxa>1659413</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1659413</Domestic_xarxa>
     <Activitats_economicas>4335065</Activitats_economicas>
     <Total>5994478</Total>
     <Consum_domestic_per_capita>123.75</Consum_domestic_per_capita>
@@ -1125,7 +1125,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>32637</Poblacio>
-    <Domestic_x0020_xarxa>1424715</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1424715</Domestic_xarxa>
     <Activitats_economicas>1448611</Activitats_economicas>
     <Total>2873326</Total>
     <Consum_domestic_per_capita>119.6</Consum_domestic_per_capita>
@@ -1135,7 +1135,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9160</Poblacio>
-    <Domestic_x0020_xarxa>346877</Domestic_x0020_xarxa>
+    <Domestic_xarxa>346877</Domestic_xarxa>
     <Activitats_economicas>117637</Activitats_economicas>
     <Total>464514</Total>
     <Consum_domestic_per_capita>103.75</Consum_domestic_per_capita>
@@ -1145,7 +1145,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>21870</Poblacio>
-    <Domestic_x0020_xarxa>1036795</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1036795</Domestic_xarxa>
     <Activitats_economicas>2989309</Activitats_economicas>
     <Total>4026104</Total>
     <Consum_domestic_per_capita>129.88</Consum_domestic_per_capita>
@@ -1155,7 +1155,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25253</Poblacio>
-    <Domestic_x0020_xarxa>1134721</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1134721</Domestic_xarxa>
     <Activitats_economicas>1254046</Activitats_economicas>
     <Total>2388767</Total>
     <Consum_domestic_per_capita>123.11</Consum_domestic_per_capita>
@@ -1165,7 +1165,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>23318</Poblacio>
-    <Domestic_x0020_xarxa>898650</Domestic_x0020_xarxa>
+    <Domestic_xarxa>898650</Domestic_xarxa>
     <Activitats_economicas>2678326</Activitats_economicas>
     <Total>3576976</Total>
     <Consum_domestic_per_capita>105.59</Consum_domestic_per_capita>
@@ -1175,7 +1175,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>211840</Poblacio>
-    <Domestic_x0020_xarxa>10019032</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10019032</Domestic_xarxa>
     <Activitats_economicas>6632310</Activitats_economicas>
     <Total>16651342</Total>
     <Consum_domestic_per_capita>129.58</Consum_domestic_per_capita>
@@ -1185,7 +1185,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>174638</Poblacio>
-    <Domestic_x0020_xarxa>8931510</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8931510</Domestic_xarxa>
     <Activitats_economicas>8250191</Activitats_economicas>
     <Total>17181701</Total>
     <Consum_domestic_per_capita>140.12</Consum_domestic_per_capita>
@@ -1195,7 +1195,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13513</Poblacio>
-    <Domestic_x0020_xarxa>569634</Domestic_x0020_xarxa>
+    <Domestic_xarxa>569634</Domestic_xarxa>
     <Activitats_economicas>652031</Activitats_economicas>
     <Total>1221665</Total>
     <Consum_domestic_per_capita>115.49</Consum_domestic_per_capita>
@@ -1205,7 +1205,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>261466</Poblacio>
-    <Domestic_x0020_xarxa>13389748</Domestic_x0020_xarxa>
+    <Domestic_xarxa>13389748</Domestic_xarxa>
     <Activitats_economicas>39046280</Activitats_economicas>
     <Total>52436028</Total>
     <Consum_domestic_per_capita>140.3</Consum_domestic_per_capita>
@@ -1215,7 +1215,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11430</Poblacio>
-    <Domestic_x0020_xarxa>406509</Domestic_x0020_xarxa>
+    <Domestic_xarxa>406509</Domestic_xarxa>
     <Activitats_economicas>171624</Activitats_economicas>
     <Total>578133</Total>
     <Consum_domestic_per_capita>97.44</Consum_domestic_per_capita>
@@ -1225,7 +1225,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>37116</Poblacio>
-    <Domestic_x0020_xarxa>1580925</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1580925</Domestic_xarxa>
     <Activitats_economicas>1083843</Activitats_economicas>
     <Total>2664768</Total>
     <Consum_domestic_per_capita>116.7</Consum_domestic_per_capita>
@@ -1235,7 +1235,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10175</Poblacio>
-    <Domestic_x0020_xarxa>1404434</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1404434</Domestic_xarxa>
     <Activitats_economicas>1047640</Activitats_economicas>
     <Total>2452074</Total>
     <Consum_domestic_per_capita>378.16</Consum_domestic_per_capita>
@@ -1245,7 +1245,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>937508</Poblacio>
-    <Domestic_x0020_xarxa>39046670</Domestic_x0020_xarxa>
+    <Domestic_xarxa>39046670</Domestic_xarxa>
     <Activitats_economicas>20716508</Activitats_economicas>
     <Total>59763178</Total>
     <Consum_domestic_per_capita>114.11</Consum_domestic_per_capita>
@@ -1255,7 +1255,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>414570</Poblacio>
-    <Domestic_x0020_xarxa>17721156</Domestic_x0020_xarxa>
+    <Domestic_xarxa>17721156</Domestic_xarxa>
     <Activitats_economicas>12327372</Activitats_economicas>
     <Total>30048528</Total>
     <Consum_domestic_per_capita>117.11</Consum_domestic_per_capita>
@@ -1265,7 +1265,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44296</Poblacio>
-    <Domestic_x0020_xarxa>1655537</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1655537</Domestic_xarxa>
     <Activitats_economicas>3028257</Activitats_economicas>
     <Total>4683794</Total>
     <Consum_domestic_per_capita>102.4</Consum_domestic_per_capita>
@@ -1275,7 +1275,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>141339</Poblacio>
-    <Domestic_x0020_xarxa>8391792</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8391792</Domestic_xarxa>
     <Activitats_economicas>4771602</Activitats_economicas>
     <Total>13163394</Total>
     <Consum_domestic_per_capita>162.67</Consum_domestic_per_capita>
@@ -1285,7 +1285,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>108411</Poblacio>
-    <Domestic_x0020_xarxa>4296388</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4296388</Domestic_xarxa>
     <Activitats_economicas>2914930</Activitats_economicas>
     <Total>7211318</Total>
     <Consum_domestic_per_capita>108.58</Consum_domestic_per_capita>
@@ -1295,7 +1295,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20177</Poblacio>
-    <Domestic_x0020_xarxa>972254</Domestic_x0020_xarxa>
+    <Domestic_xarxa>972254</Domestic_xarxa>
     <Activitats_economicas>1452242</Activitats_economicas>
     <Total>2424496</Total>
     <Consum_domestic_per_capita>132.02</Consum_domestic_per_capita>
@@ -1305,7 +1305,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3802</Poblacio>
-    <Domestic_x0020_xarxa>489029</Domestic_x0020_xarxa>
+    <Domestic_xarxa>489029</Domestic_xarxa>
     <Activitats_economicas>202942</Activitats_economicas>
     <Total>691971</Total>
     <Consum_domestic_per_capita>352.39</Consum_domestic_per_capita>
@@ -1315,7 +1315,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>120738</Poblacio>
-    <Domestic_x0020_xarxa>4996187</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4996187</Domestic_xarxa>
     <Activitats_economicas>6271896</Activitats_economicas>
     <Total>11268083</Total>
     <Consum_domestic_per_capita>113.37</Consum_domestic_per_capita>
@@ -1325,7 +1325,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>178885</Poblacio>
-    <Domestic_x0020_xarxa>7213340</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7213340</Domestic_xarxa>
     <Activitats_economicas>7105346</Activitats_economicas>
     <Total>14318686</Total>
     <Consum_domestic_per_capita>110.48</Consum_domestic_per_capita>
@@ -1335,7 +1335,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>190973</Poblacio>
-    <Domestic_x0020_xarxa>9581608</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9581608</Domestic_xarxa>
     <Activitats_economicas>6032268</Activitats_economicas>
     <Total>15613876</Total>
     <Consum_domestic_per_capita>137.46</Consum_domestic_per_capita>
@@ -1345,7 +1345,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>77596</Poblacio>
-    <Domestic_x0020_xarxa>3421105</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3421105</Domestic_xarxa>
     <Activitats_economicas>4488740</Activitats_economicas>
     <Total>7909845</Total>
     <Consum_domestic_per_capita>120.79</Consum_domestic_per_capita>
@@ -1355,7 +1355,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>134359</Poblacio>
-    <Domestic_x0020_xarxa>10562167</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10562167</Domestic_xarxa>
     <Activitats_economicas>6305271</Activitats_economicas>
     <Total>16867438</Total>
     <Consum_domestic_per_capita>215.37</Consum_domestic_per_capita>
@@ -1365,7 +1365,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>825963</Poblacio>
-    <Domestic_x0020_xarxa>32332690</Domestic_x0020_xarxa>
+    <Domestic_xarxa>32332690</Domestic_xarxa>
     <Activitats_economicas>25263950</Activitats_economicas>
     <Total>57596640</Total>
     <Consum_domestic_per_capita>107.25</Consum_domestic_per_capita>
@@ -1375,7 +1375,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>104991</Poblacio>
-    <Domestic_x0020_xarxa>6395692</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6395692</Domestic_xarxa>
     <Activitats_economicas>2290546</Activitats_economicas>
     <Total>8686238</Total>
     <Consum_domestic_per_capita>166.89</Consum_domestic_per_capita>
@@ -1385,7 +1385,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2278437</Poblacio>
-    <Domestic_x0020_xarxa>86987695</Domestic_x0020_xarxa>
+    <Domestic_xarxa>86987695</Domestic_xarxa>
     <Activitats_economicas>41704636</Activitats_economicas>
     <Total>128692331</Total>
     <Consum_domestic_per_capita>104.6</Consum_domestic_per_capita>
@@ -1395,7 +1395,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39446</Poblacio>
-    <Domestic_x0020_xarxa>1389347</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1389347</Domestic_xarxa>
     <Activitats_economicas>856679</Activitats_economicas>
     <Total>2246026</Total>
     <Consum_domestic_per_capita>96.5</Consum_domestic_per_capita>
@@ -1405,7 +1405,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>18192</Poblacio>
-    <Domestic_x0020_xarxa>1432411</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1432411</Domestic_xarxa>
     <Activitats_economicas>2100446</Activitats_economicas>
     <Total>3532857</Total>
     <Consum_domestic_per_capita>215.72</Consum_domestic_per_capita>
@@ -1415,7 +1415,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20042</Poblacio>
-    <Domestic_x0020_xarxa>739076</Domestic_x0020_xarxa>
+    <Domestic_xarxa>739076</Domestic_xarxa>
     <Activitats_economicas>627320</Activitats_economicas>
     <Total>1366396</Total>
     <Consum_domestic_per_capita>101.03</Consum_domestic_per_capita>
@@ -1425,7 +1425,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>150887</Poblacio>
-    <Domestic_x0020_xarxa>7468438</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7468438</Domestic_xarxa>
     <Activitats_economicas>2772171</Activitats_economicas>
     <Total>10240609</Total>
     <Consum_domestic_per_capita>135.61</Consum_domestic_per_capita>
@@ -1435,7 +1435,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>18833</Poblacio>
-    <Domestic_x0020_xarxa>717759</Domestic_x0020_xarxa>
+    <Domestic_xarxa>717759</Domestic_xarxa>
     <Activitats_economicas>774444</Activitats_economicas>
     <Total>1492203</Total>
     <Consum_domestic_per_capita>104.42</Consum_domestic_per_capita>
@@ -1445,7 +1445,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>57590</Poblacio>
-    <Domestic_x0020_xarxa>2370404</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2370404</Domestic_xarxa>
     <Activitats_economicas>4045001</Activitats_economicas>
     <Total>6415405</Total>
     <Consum_domestic_per_capita>112.77</Consum_domestic_per_capita>
@@ -1455,7 +1455,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>193908</Poblacio>
-    <Domestic_x0020_xarxa>7377732</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7377732</Domestic_xarxa>
     <Activitats_economicas>10334108</Activitats_economicas>
     <Total>17711840</Total>
     <Consum_domestic_per_capita>104.24</Consum_domestic_per_capita>
@@ -1465,7 +1465,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>452690</Poblacio>
-    <Domestic_x0020_xarxa>20732267</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20732267</Domestic_xarxa>
     <Activitats_economicas>9563185</Activitats_economicas>
     <Total>30295452</Total>
     <Consum_domestic_per_capita>125.47</Consum_domestic_per_capita>
@@ -1475,7 +1475,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13603</Poblacio>
-    <Domestic_x0020_xarxa>622573</Domestic_x0020_xarxa>
+    <Domestic_xarxa>622573</Domestic_xarxa>
     <Activitats_economicas>582437</Activitats_economicas>
     <Total>1205010</Total>
     <Consum_domestic_per_capita>125.39</Consum_domestic_per_capita>
@@ -1485,7 +1485,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>67436</Poblacio>
-    <Domestic_x0020_xarxa>2764996</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2764996</Domestic_xarxa>
     <Activitats_economicas>2005323</Activitats_economicas>
     <Total>4770319</Total>
     <Consum_domestic_per_capita>112.33</Consum_domestic_per_capita>
@@ -1495,7 +1495,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>38770</Poblacio>
-    <Domestic_x0020_xarxa>1713459</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1713459</Domestic_xarxa>
     <Activitats_economicas>1702308</Activitats_economicas>
     <Total>3415767</Total>
     <Consum_domestic_per_capita>121.08</Consum_domestic_per_capita>
@@ -1505,7 +1505,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>160821</Poblacio>
-    <Domestic_x0020_xarxa>6259962</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6259962</Domestic_xarxa>
     <Activitats_economicas>8657380</Activitats_economicas>
     <Total>14917342</Total>
     <Consum_domestic_per_capita>106.64</Consum_domestic_per_capita>
@@ -1515,7 +1515,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13080</Poblacio>
-    <Domestic_x0020_xarxa>799413</Domestic_x0020_xarxa>
+    <Domestic_xarxa>799413</Domestic_xarxa>
     <Activitats_economicas>311119</Activitats_economicas>
     <Total>1110532</Total>
     <Consum_domestic_per_capita>167.44</Consum_domestic_per_capita>
@@ -1525,7 +1525,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>6932</Poblacio>
-    <Domestic_x0020_xarxa>564191</Domestic_x0020_xarxa>
+    <Domestic_xarxa>564191</Domestic_xarxa>
     <Activitats_economicas>584129</Activitats_economicas>
     <Total>1148320</Total>
     <Consum_domestic_per_capita>222.98</Consum_domestic_per_capita>
@@ -1535,7 +1535,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36693</Poblacio>
-    <Domestic_x0020_xarxa>1629247</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1629247</Domestic_xarxa>
     <Activitats_economicas>4523152</Activitats_economicas>
     <Total>6152399</Total>
     <Consum_domestic_per_capita>121.65</Consum_domestic_per_capita>
@@ -1545,7 +1545,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>32293</Poblacio>
-    <Domestic_x0020_xarxa>1374736</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1374736</Domestic_xarxa>
     <Activitats_economicas>1430923</Activitats_economicas>
     <Total>2805659</Total>
     <Consum_domestic_per_capita>116.63</Consum_domestic_per_capita>
@@ -1555,7 +1555,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9245</Poblacio>
-    <Domestic_x0020_xarxa>337421</Domestic_x0020_xarxa>
+    <Domestic_xarxa>337421</Domestic_xarxa>
     <Activitats_economicas>132262</Activitats_economicas>
     <Total>469683</Total>
     <Consum_domestic_per_capita>99.99</Consum_domestic_per_capita>
@@ -1565,7 +1565,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>21865</Poblacio>
-    <Domestic_x0020_xarxa>947642</Domestic_x0020_xarxa>
+    <Domestic_xarxa>947642</Domestic_xarxa>
     <Activitats_economicas>3457939</Activitats_economicas>
     <Total>4405581</Total>
     <Consum_domestic_per_capita>118.74</Consum_domestic_per_capita>
@@ -1575,7 +1575,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25087</Poblacio>
-    <Domestic_x0020_xarxa>1077632</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1077632</Domestic_xarxa>
     <Activitats_economicas>1458292</Activitats_economicas>
     <Total>2535924</Total>
     <Consum_domestic_per_capita>117.69</Consum_domestic_per_capita>
@@ -1585,7 +1585,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>23052</Poblacio>
-    <Domestic_x0020_xarxa>829654</Domestic_x0020_xarxa>
+    <Domestic_xarxa>829654</Domestic_xarxa>
     <Activitats_economicas>2295241</Activitats_economicas>
     <Total>3124895</Total>
     <Consum_domestic_per_capita>98.6</Consum_domestic_per_capita>
@@ -1595,7 +1595,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>209818</Poblacio>
-    <Domestic_x0020_xarxa>9379184</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9379184</Domestic_xarxa>
     <Activitats_economicas>7903289</Activitats_economicas>
     <Total>17282473</Total>
     <Consum_domestic_per_capita>122.47</Consum_domestic_per_capita>
@@ -1605,7 +1605,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>171617</Poblacio>
-    <Domestic_x0020_xarxa>8860789</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8860789</Domestic_xarxa>
     <Activitats_economicas>10192204</Activitats_economicas>
     <Total>19052993</Total>
     <Consum_domestic_per_capita>141.46</Consum_domestic_per_capita>
@@ -1615,7 +1615,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13469</Poblacio>
-    <Domestic_x0020_xarxa>570274</Domestic_x0020_xarxa>
+    <Domestic_xarxa>570274</Domestic_xarxa>
     <Activitats_economicas>571207</Activitats_economicas>
     <Total>1141481</Total>
     <Consum_domestic_per_capita>116</Consum_domestic_per_capita>
@@ -1625,7 +1625,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>256730</Poblacio>
-    <Domestic_x0020_xarxa>12983069</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12983069</Domestic_xarxa>
     <Activitats_economicas>44208846</Activitats_economicas>
     <Total>57191915</Total>
     <Consum_domestic_per_capita>138.55</Consum_domestic_per_capita>
@@ -1635,7 +1635,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11490</Poblacio>
-    <Domestic_x0020_xarxa>404546</Domestic_x0020_xarxa>
+    <Domestic_xarxa>404546</Domestic_xarxa>
     <Activitats_economicas>264548</Activitats_economicas>
     <Total>669094</Total>
     <Consum_domestic_per_capita>96.46</Consum_domestic_per_capita>
@@ -1645,7 +1645,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36693</Poblacio>
-    <Domestic_x0020_xarxa>1453491</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1453491</Domestic_xarxa>
     <Activitats_economicas>1169112</Activitats_economicas>
     <Total>2622603</Total>
     <Consum_domestic_per_capita>108.53</Consum_domestic_per_capita>
@@ -1655,7 +1655,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10093</Poblacio>
-    <Domestic_x0020_xarxa>1392780</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1392780</Domestic_xarxa>
     <Activitats_economicas>1177299</Activitats_economicas>
     <Total>2570079</Total>
     <Consum_domestic_per_capita>378.07</Consum_domestic_per_capita>
@@ -1665,7 +1665,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>925237</Poblacio>
-    <Domestic_x0020_xarxa>36467861</Domestic_x0020_xarxa>
+    <Domestic_xarxa>36467861</Domestic_xarxa>
     <Activitats_economicas>24083867</Activitats_economicas>
     <Total>60551728</Total>
     <Consum_domestic_per_capita>107.99</Consum_domestic_per_capita>
@@ -1675,7 +1675,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>409638</Poblacio>
-    <Domestic_x0020_xarxa>16648383</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16648383</Domestic_xarxa>
     <Activitats_economicas>13516403</Activitats_economicas>
     <Total>30164786</Total>
     <Consum_domestic_per_capita>111.35</Consum_domestic_per_capita>
@@ -1685,7 +1685,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44065</Poblacio>
-    <Domestic_x0020_xarxa>1641853</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1641853</Domestic_xarxa>
     <Activitats_economicas>2890538</Activitats_economicas>
     <Total>4532391</Total>
     <Consum_domestic_per_capita>102.08</Consum_domestic_per_capita>
@@ -1695,7 +1695,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>140569</Poblacio>
-    <Domestic_x0020_xarxa>8160164</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8160164</Domestic_xarxa>
     <Activitats_economicas>4663173</Activitats_economicas>
     <Total>12823337</Total>
     <Consum_domestic_per_capita>159.04</Consum_domestic_per_capita>
@@ -1705,7 +1705,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>108122</Poblacio>
-    <Domestic_x0020_xarxa>4177903</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4177903</Domestic_xarxa>
     <Activitats_economicas>3068538</Activitats_economicas>
     <Total>7246441</Total>
     <Consum_domestic_per_capita>105.86</Consum_domestic_per_capita>
@@ -1715,7 +1715,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20224</Poblacio>
-    <Domestic_x0020_xarxa>922281</Domestic_x0020_xarxa>
+    <Domestic_xarxa>922281</Domestic_xarxa>
     <Activitats_economicas>1389153</Activitats_economicas>
     <Total>2311434</Total>
     <Consum_domestic_per_capita>124.94</Consum_domestic_per_capita>
@@ -1725,7 +1725,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3774</Poblacio>
-    <Domestic_x0020_xarxa>493426</Domestic_x0020_xarxa>
+    <Domestic_xarxa>493426</Domestic_xarxa>
     <Activitats_economicas>154114</Activitats_economicas>
     <Total>647540</Total>
     <Consum_domestic_per_capita>358.2</Consum_domestic_per_capita>
@@ -1735,7 +1735,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>119089</Poblacio>
-    <Domestic_x0020_xarxa>4731908</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4731908</Domestic_xarxa>
     <Activitats_economicas>6240631</Activitats_economicas>
     <Total>10972539</Total>
     <Consum_domestic_per_capita>108.86</Consum_domestic_per_capita>
@@ -1745,7 +1745,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>176485</Poblacio>
-    <Domestic_x0020_xarxa>6995011</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6995011</Domestic_xarxa>
     <Activitats_economicas>7221037</Activitats_economicas>
     <Total>14216048</Total>
     <Consum_domestic_per_capita>108.59</Consum_domestic_per_capita>
@@ -1755,7 +1755,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>188841</Poblacio>
-    <Domestic_x0020_xarxa>9616130</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9616130</Domestic_xarxa>
     <Activitats_economicas>6202185</Activitats_economicas>
     <Total>15818315</Total>
     <Consum_domestic_per_capita>139.51</Consum_domestic_per_capita>
@@ -1765,7 +1765,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>77868</Poblacio>
-    <Domestic_x0020_xarxa>3364471</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3364471</Domestic_xarxa>
     <Activitats_economicas>4368212</Activitats_economicas>
     <Total>7732683</Total>
     <Consum_domestic_per_capita>118.38</Consum_domestic_per_capita>
@@ -1775,7 +1775,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>133461</Poblacio>
-    <Domestic_x0020_xarxa>10086083</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10086083</Domestic_xarxa>
     <Activitats_economicas>5859640</Activitats_economicas>
     <Total>15945723</Total>
     <Consum_domestic_per_capita>207.05</Consum_domestic_per_capita>
@@ -1785,7 +1785,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>819168</Poblacio>
-    <Domestic_x0020_xarxa>31921843</Domestic_x0020_xarxa>
+    <Domestic_xarxa>31921843</Domestic_xarxa>
     <Activitats_economicas>25106252</Activitats_economicas>
     <Total>57028095</Total>
     <Consum_domestic_per_capita>106.76</Consum_domestic_per_capita>
@@ -1795,7 +1795,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>102409</Poblacio>
-    <Domestic_x0020_xarxa>6029014</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6029014</Domestic_xarxa>
     <Activitats_economicas>2232000</Activitats_economicas>
     <Total>8261014</Total>
     <Consum_domestic_per_capita>161.29</Consum_domestic_per_capita>
@@ -1805,7 +1805,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2254642</Poblacio>
-    <Domestic_x0020_xarxa>86957071</Domestic_x0020_xarxa>
+    <Domestic_xarxa>86957071</Domestic_xarxa>
     <Activitats_economicas>42937375</Activitats_economicas>
     <Total>129894446</Total>
     <Consum_domestic_per_capita>105.67</Consum_domestic_per_capita>
@@ -1815,7 +1815,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39104</Poblacio>
-    <Domestic_x0020_xarxa>1345471</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1345471</Domestic_xarxa>
     <Activitats_economicas>758394</Activitats_economicas>
     <Total>2103865</Total>
     <Consum_domestic_per_capita>94.27</Consum_domestic_per_capita>
@@ -1825,7 +1825,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>17882</Poblacio>
-    <Domestic_x0020_xarxa>1378190</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1378190</Domestic_xarxa>
     <Activitats_economicas>1698063</Activitats_economicas>
     <Total>3076253</Total>
     <Consum_domestic_per_capita>211.15</Consum_domestic_per_capita>
@@ -1835,7 +1835,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20103</Poblacio>
-    <Domestic_x0020_xarxa>740253</Domestic_x0020_xarxa>
+    <Domestic_xarxa>740253</Domestic_xarxa>
     <Activitats_economicas>573841</Activitats_economicas>
     <Total>1314094</Total>
     <Consum_domestic_per_capita>100.88</Consum_domestic_per_capita>
@@ -1845,7 +1845,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>149103</Poblacio>
-    <Domestic_x0020_xarxa>7418408</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7418408</Domestic_xarxa>
     <Activitats_economicas>2814563</Activitats_economicas>
     <Total>10232971</Total>
     <Consum_domestic_per_capita>136.31</Consum_domestic_per_capita>
@@ -1855,7 +1855,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>18771</Poblacio>
-    <Domestic_x0020_xarxa>711204</Domestic_x0020_xarxa>
+    <Domestic_xarxa>711204</Domestic_xarxa>
     <Activitats_economicas>935711</Activitats_economicas>
     <Total>1646915</Total>
     <Consum_domestic_per_capita>103.8</Consum_domestic_per_capita>
@@ -1865,7 +1865,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>56613</Poblacio>
-    <Domestic_x0020_xarxa>2260986</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2260986</Domestic_xarxa>
     <Activitats_economicas>4005932</Activitats_economicas>
     <Total>6266918</Total>
     <Consum_domestic_per_capita>109.42</Consum_domestic_per_capita>
@@ -1875,7 +1875,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>190786</Poblacio>
-    <Domestic_x0020_xarxa>7184902</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7184902</Domestic_xarxa>
     <Activitats_economicas>10036228</Activitats_economicas>
     <Total>17221130</Total>
     <Consum_domestic_per_capita>103.18</Consum_domestic_per_capita>
@@ -1885,7 +1885,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>447824</Poblacio>
-    <Domestic_x0020_xarxa>20343948</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20343948</Domestic_xarxa>
     <Activitats_economicas>9385652</Activitats_economicas>
     <Total>29729600</Total>
     <Consum_domestic_per_capita>124.46</Consum_domestic_per_capita>
@@ -1895,7 +1895,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13432</Poblacio>
-    <Domestic_x0020_xarxa>581316</Domestic_x0020_xarxa>
+    <Domestic_xarxa>581316</Domestic_xarxa>
     <Activitats_economicas>525638</Activitats_economicas>
     <Total>1106954</Total>
     <Consum_domestic_per_capita>118.57</Consum_domestic_per_capita>
@@ -1905,7 +1905,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>67083</Poblacio>
-    <Domestic_x0020_xarxa>2718691</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2718691</Domestic_xarxa>
     <Activitats_economicas>1953754</Activitats_economicas>
     <Total>4672445</Total>
     <Consum_domestic_per_capita>111.03</Consum_domestic_per_capita>
@@ -1915,7 +1915,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>38708</Poblacio>
-    <Domestic_x0020_xarxa>1667529</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1667529</Domestic_xarxa>
     <Activitats_economicas>1730996</Activitats_economicas>
     <Total>3398525</Total>
     <Consum_domestic_per_capita>118.03</Consum_domestic_per_capita>
@@ -1925,7 +1925,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>158334</Poblacio>
-    <Domestic_x0020_xarxa>6006017</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6006017</Domestic_xarxa>
     <Activitats_economicas>8455751</Activitats_economicas>
     <Total>14461768</Total>
     <Consum_domestic_per_capita>103.92</Consum_domestic_per_capita>
@@ -1935,7 +1935,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13091</Poblacio>
-    <Domestic_x0020_xarxa>788575</Domestic_x0020_xarxa>
+    <Domestic_xarxa>788575</Domestic_xarxa>
     <Activitats_economicas>311938</Activitats_economicas>
     <Total>1100513</Total>
     <Consum_domestic_per_capita>165.04</Consum_domestic_per_capita>
@@ -1945,7 +1945,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>6934</Poblacio>
-    <Domestic_x0020_xarxa>546098</Domestic_x0020_xarxa>
+    <Domestic_xarxa>546098</Domestic_xarxa>
     <Activitats_economicas>628431</Activitats_economicas>
     <Total>1174529</Total>
     <Consum_domestic_per_capita>215.77</Consum_domestic_per_capita>
@@ -1955,7 +1955,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36740</Poblacio>
-    <Domestic_x0020_xarxa>1607559</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1607559</Domestic_xarxa>
     <Activitats_economicas>4529496</Activitats_economicas>
     <Total>6137055</Total>
     <Consum_domestic_per_capita>119.88</Consum_domestic_per_capita>
@@ -1965,7 +1965,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>32006</Poblacio>
-    <Domestic_x0020_xarxa>1307741</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1307741</Domestic_xarxa>
     <Activitats_economicas>1498435</Activitats_economicas>
     <Total>2806176</Total>
     <Consum_domestic_per_capita>111.94</Consum_domestic_per_capita>
@@ -1975,7 +1975,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9296</Poblacio>
-    <Domestic_x0020_xarxa>335821</Domestic_x0020_xarxa>
+    <Domestic_xarxa>335821</Domestic_xarxa>
     <Activitats_economicas>138386</Activitats_economicas>
     <Total>474207</Total>
     <Consum_domestic_per_capita>98.97</Consum_domestic_per_capita>
@@ -1985,7 +1985,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>21964</Poblacio>
-    <Domestic_x0020_xarxa>950873</Domestic_x0020_xarxa>
+    <Domestic_xarxa>950873</Domestic_xarxa>
     <Activitats_economicas>3419903</Activitats_economicas>
     <Total>4370776</Total>
     <Consum_domestic_per_capita>118.61</Consum_domestic_per_capita>
@@ -1995,7 +1995,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25000</Poblacio>
-    <Domestic_x0020_xarxa>1043999</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1043999</Domestic_xarxa>
     <Activitats_economicas>1190031</Activitats_economicas>
     <Total>2234030</Total>
     <Consum_domestic_per_capita>114.41</Consum_domestic_per_capita>
@@ -2005,7 +2005,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22822</Poblacio>
-    <Domestic_x0020_xarxa>817089</Domestic_x0020_xarxa>
+    <Domestic_xarxa>817089</Domestic_xarxa>
     <Activitats_economicas>2598214</Activitats_economicas>
     <Total>3415303</Total>
     <Consum_domestic_per_capita>98.09</Consum_domestic_per_capita>
@@ -2015,7 +2015,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>208638</Poblacio>
-    <Domestic_x0020_xarxa>9200258</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9200258</Domestic_xarxa>
     <Activitats_economicas>7704087</Activitats_economicas>
     <Total>16904345</Total>
     <Consum_domestic_per_capita>120.81</Consum_domestic_per_capita>
@@ -2025,7 +2025,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>169029</Poblacio>
-    <Domestic_x0020_xarxa>8757016</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8757016</Domestic_xarxa>
     <Activitats_economicas>10256780</Activitats_economicas>
     <Total>19013796</Total>
     <Consum_domestic_per_capita>141.94</Consum_domestic_per_capita>
@@ -2035,7 +2035,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13392</Poblacio>
-    <Domestic_x0020_xarxa>564374</Domestic_x0020_xarxa>
+    <Domestic_xarxa>564374</Domestic_xarxa>
     <Activitats_economicas>609870</Activitats_economicas>
     <Total>1174244</Total>
     <Consum_domestic_per_capita>115.46</Consum_domestic_per_capita>
@@ -2045,7 +2045,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>252790</Poblacio>
-    <Domestic_x0020_xarxa>12630262</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12630262</Domestic_xarxa>
     <Activitats_economicas>41807472</Activitats_economicas>
     <Total>54437734</Total>
     <Consum_domestic_per_capita>136.89</Consum_domestic_per_capita>
@@ -2055,7 +2055,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11483</Poblacio>
-    <Domestic_x0020_xarxa>407182</Domestic_x0020_xarxa>
+    <Domestic_xarxa>407182</Domestic_xarxa>
     <Activitats_economicas>284672</Activitats_economicas>
     <Total>691854</Total>
     <Consum_domestic_per_capita>97.15</Consum_domestic_per_capita>
@@ -2065,7 +2065,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36243</Poblacio>
-    <Domestic_x0020_xarxa>1453506</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1453506</Domestic_xarxa>
     <Activitats_economicas>1075228</Activitats_economicas>
     <Total>2528734</Total>
     <Consum_domestic_per_capita>109.88</Consum_domestic_per_capita>
@@ -2075,7 +2075,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>9983</Poblacio>
-    <Domestic_x0020_xarxa>1237160</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1237160</Domestic_xarxa>
     <Activitats_economicas>996737</Activitats_economicas>
     <Total>2233897</Total>
     <Consum_domestic_per_capita>339.53</Consum_domestic_per_capita>
@@ -2085,7 +2085,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>917905</Poblacio>
-    <Domestic_x0020_xarxa>35583820</Domestic_x0020_xarxa>
+    <Domestic_xarxa>35583820</Domestic_xarxa>
     <Activitats_economicas>24124484</Activitats_economicas>
     <Total>59708304</Total>
     <Consum_domestic_per_capita>106.21</Consum_domestic_per_capita>
@@ -2095,7 +2095,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>406289</Poblacio>
-    <Domestic_x0020_xarxa>16129792</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16129792</Domestic_xarxa>
     <Activitats_economicas>13253159</Activitats_economicas>
     <Total>29382951</Total>
     <Consum_domestic_per_capita>108.77</Consum_domestic_per_capita>
@@ -2105,7 +2105,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>43995</Poblacio>
-    <Domestic_x0020_xarxa>1663061</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1663061</Domestic_xarxa>
     <Activitats_economicas>2853335</Activitats_economicas>
     <Total>4516396</Total>
     <Consum_domestic_per_capita>103.56</Consum_domestic_per_capita>
@@ -2115,7 +2115,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>139705</Poblacio>
-    <Domestic_x0020_xarxa>8217598</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8217598</Domestic_xarxa>
     <Activitats_economicas>4815683</Activitats_economicas>
     <Total>13033281</Total>
     <Consum_domestic_per_capita>161.15</Consum_domestic_per_capita>
@@ -2125,7 +2125,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106930</Poblacio>
-    <Domestic_x0020_xarxa>4270342</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4270342</Domestic_xarxa>
     <Activitats_economicas>3022309</Activitats_economicas>
     <Total>7292651</Total>
     <Consum_domestic_per_capita>109.41</Consum_domestic_per_capita>
@@ -2135,7 +2135,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20296</Poblacio>
-    <Domestic_x0020_xarxa>940210</Domestic_x0020_xarxa>
+    <Domestic_xarxa>940210</Domestic_xarxa>
     <Activitats_economicas>1377727</Activitats_economicas>
     <Total>2317937</Total>
     <Consum_domestic_per_capita>126.92</Consum_domestic_per_capita>
@@ -2145,7 +2145,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3827</Poblacio>
-    <Domestic_x0020_xarxa>439839</Domestic_x0020_xarxa>
+    <Domestic_xarxa>439839</Domestic_xarxa>
     <Activitats_economicas>200811</Activitats_economicas>
     <Total>640650</Total>
     <Consum_domestic_per_capita>314.88</Consum_domestic_per_capita>
@@ -2155,7 +2155,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>118277</Poblacio>
-    <Domestic_x0020_xarxa>4799172</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4799172</Domestic_xarxa>
     <Activitats_economicas>6097025</Activitats_economicas>
     <Total>10896197</Total>
     <Consum_domestic_per_capita>111.17</Consum_domestic_per_capita>
@@ -2165,7 +2165,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>175095</Poblacio>
-    <Domestic_x0020_xarxa>7211060</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7211060</Domestic_xarxa>
     <Activitats_economicas>7639437</Activitats_economicas>
     <Total>14850497</Total>
     <Consum_domestic_per_capita>112.83</Consum_domestic_per_capita>
@@ -2175,7 +2175,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>187471</Poblacio>
-    <Domestic_x0020_xarxa>9496864</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9496864</Domestic_xarxa>
     <Activitats_economicas>5714293</Activitats_economicas>
     <Total>15211157</Total>
     <Consum_domestic_per_capita>138.79</Consum_domestic_per_capita>
@@ -2185,7 +2185,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>78180</Poblacio>
-    <Domestic_x0020_xarxa>3428803</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3428803</Domestic_xarxa>
     <Activitats_economicas>4152279</Activitats_economicas>
     <Total>7581082</Total>
     <Consum_domestic_per_capita>120.16</Consum_domestic_per_capita>
@@ -2195,7 +2195,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>132906</Poblacio>
-    <Domestic_x0020_xarxa>10304393</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10304393</Domestic_xarxa>
     <Activitats_economicas>6175542</Activitats_economicas>
     <Total>16479935</Total>
     <Consum_domestic_per_capita>212.41</Consum_domestic_per_capita>
@@ -2205,7 +2205,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>813996</Poblacio>
-    <Domestic_x0020_xarxa>31980629</Domestic_x0020_xarxa>
+    <Domestic_xarxa>31980629</Domestic_xarxa>
     <Activitats_economicas>25453011</Activitats_economicas>
     <Total>57433640</Total>
     <Consum_domestic_per_capita>107.64</Consum_domestic_per_capita>
@@ -2215,7 +2215,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>100850</Poblacio>
-    <Domestic_x0020_xarxa>6221100</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6221100</Domestic_xarxa>
     <Activitats_economicas>2405508</Activitats_economicas>
     <Total>8626608</Total>
     <Consum_domestic_per_capita>169</Consum_domestic_per_capita>
@@ -2225,7 +2225,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2248227</Poblacio>
-    <Domestic_x0020_xarxa>85811270</Domestic_x0020_xarxa>
+    <Domestic_xarxa>85811270</Domestic_xarxa>
     <Activitats_economicas>42763730</Activitats_economicas>
     <Total>128575000</Total>
     <Consum_domestic_per_capita>104.57</Consum_domestic_per_capita>
@@ -2235,7 +2235,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39013</Poblacio>
-    <Domestic_x0020_xarxa>1364458</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1364458</Domestic_xarxa>
     <Activitats_economicas>796002</Activitats_economicas>
     <Total>2160460</Total>
     <Consum_domestic_per_capita>95.82</Consum_domestic_per_capita>
@@ -2245,7 +2245,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>17623</Poblacio>
-    <Domestic_x0020_xarxa>1378044</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1378044</Domestic_xarxa>
     <Activitats_economicas>1919712</Activitats_economicas>
     <Total>3297756</Total>
     <Consum_domestic_per_capita>214.23</Consum_domestic_per_capita>
@@ -2255,7 +2255,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20036</Poblacio>
-    <Domestic_x0020_xarxa>800698</Domestic_x0020_xarxa>
+    <Domestic_xarxa>800698</Domestic_xarxa>
     <Activitats_economicas>550386</Activitats_economicas>
     <Total>1351084</Total>
     <Consum_domestic_per_capita>109.49</Consum_domestic_per_capita>
@@ -2265,7 +2265,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>147504</Poblacio>
-    <Domestic_x0020_xarxa>7394256</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7394256</Domestic_xarxa>
     <Activitats_economicas>2939970</Activitats_economicas>
     <Total>10334226</Total>
     <Consum_domestic_per_capita>137.34</Consum_domestic_per_capita>
@@ -2275,7 +2275,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>18975</Poblacio>
-    <Domestic_x0020_xarxa>741124</Domestic_x0020_xarxa>
+    <Domestic_xarxa>741124</Domestic_xarxa>
     <Activitats_economicas>964360</Activitats_economicas>
     <Total>1705484</Total>
     <Consum_domestic_per_capita>107.01</Consum_domestic_per_capita>
@@ -2285,7 +2285,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>56184</Poblacio>
-    <Domestic_x0020_xarxa>2316986</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2316986</Domestic_xarxa>
     <Activitats_economicas>4126878</Activitats_economicas>
     <Total>6443864</Total>
     <Consum_domestic_per_capita>112.98</Consum_domestic_per_capita>
@@ -2295,7 +2295,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>187235</Poblacio>
-    <Domestic_x0020_xarxa>7312141</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7312141</Domestic_xarxa>
     <Activitats_economicas>9872260</Activitats_economicas>
     <Total>17184401</Total>
     <Consum_domestic_per_capita>107</Consum_domestic_per_capita>
@@ -2305,7 +2305,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>444046</Poblacio>
-    <Domestic_x0020_xarxa>20595871</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20595871</Domestic_xarxa>
     <Activitats_economicas>9482112</Activitats_economicas>
     <Total>30077983</Total>
     <Consum_domestic_per_capita>127.07</Consum_domestic_per_capita>
@@ -2315,7 +2315,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13279</Poblacio>
-    <Domestic_x0020_xarxa>601257</Domestic_x0020_xarxa>
+    <Domestic_xarxa>601257</Domestic_xarxa>
     <Activitats_economicas>535995</Activitats_economicas>
     <Total>1137252</Total>
     <Consum_domestic_per_capita>124.05</Consum_domestic_per_capita>
@@ -2325,7 +2325,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>67491</Poblacio>
-    <Domestic_x0020_xarxa>2724625</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2724625</Domestic_xarxa>
     <Activitats_economicas>1922009</Activitats_economicas>
     <Total>4646634</Total>
     <Consum_domestic_per_capita>110.6</Consum_domestic_per_capita>
@@ -2335,7 +2335,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>38726</Poblacio>
-    <Domestic_x0020_xarxa>1648293</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1648293</Domestic_xarxa>
     <Activitats_economicas>1951151</Activitats_economicas>
     <Total>3599444</Total>
     <Consum_domestic_per_capita>116.61</Consum_domestic_per_capita>
@@ -2345,7 +2345,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>156572</Poblacio>
-    <Domestic_x0020_xarxa>6118967</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6118967</Domestic_xarxa>
     <Activitats_economicas>8327675</Activitats_economicas>
     <Total>14446642</Total>
     <Consum_domestic_per_capita>107.07</Consum_domestic_per_capita>
@@ -2355,7 +2355,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13280</Poblacio>
-    <Domestic_x0020_xarxa>737376</Domestic_x0020_xarxa>
+    <Domestic_xarxa>737376</Domestic_xarxa>
     <Activitats_economicas>237160</Activitats_economicas>
     <Total>974536</Total>
     <Consum_domestic_per_capita>152.12</Consum_domestic_per_capita>
@@ -2365,7 +2365,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>6947</Poblacio>
-    <Domestic_x0020_xarxa>540169</Domestic_x0020_xarxa>
+    <Domestic_xarxa>540169</Domestic_xarxa>
     <Activitats_economicas>520924</Activitats_economicas>
     <Total>1061093</Total>
     <Consum_domestic_per_capita>213.03</Consum_domestic_per_capita>
@@ -2375,7 +2375,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36614</Poblacio>
-    <Domestic_x0020_xarxa>1583555</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1583555</Domestic_xarxa>
     <Activitats_economicas>4448822</Activitats_economicas>
     <Total>6032377</Total>
     <Consum_domestic_per_capita>118.49</Consum_domestic_per_capita>
@@ -2385,7 +2385,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31738</Poblacio>
-    <Domestic_x0020_xarxa>1330224</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1330224</Domestic_xarxa>
     <Activitats_economicas>1269907</Activitats_economicas>
     <Total>2600131</Total>
     <Consum_domestic_per_capita>114.83</Consum_domestic_per_capita>
@@ -2395,7 +2395,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9345</Poblacio>
-    <Domestic_x0020_xarxa>342090</Domestic_x0020_xarxa>
+    <Domestic_xarxa>342090</Domestic_xarxa>
     <Activitats_economicas>137936</Activitats_economicas>
     <Total>480026</Total>
     <Consum_domestic_per_capita>100.29</Consum_domestic_per_capita>
@@ -2405,7 +2405,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>22203</Poblacio>
-    <Domestic_x0020_xarxa>956734</Domestic_x0020_xarxa>
+    <Domestic_xarxa>956734</Domestic_xarxa>
     <Activitats_economicas>8112390</Activitats_economicas>
     <Total>9069124</Total>
     <Consum_domestic_per_capita>118.06</Consum_domestic_per_capita>
@@ -2415,7 +2415,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>24999</Poblacio>
-    <Domestic_x0020_xarxa>1079589</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1079589</Domestic_xarxa>
     <Activitats_economicas>1157776</Activitats_economicas>
     <Total>2237365</Total>
     <Consum_domestic_per_capita>118.32</Consum_domestic_per_capita>
@@ -2425,7 +2425,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22736</Poblacio>
-    <Domestic_x0020_xarxa>847728</Domestic_x0020_xarxa>
+    <Domestic_xarxa>847728</Domestic_xarxa>
     <Activitats_economicas>1996641</Activitats_economicas>
     <Total>2844369</Total>
     <Consum_domestic_per_capita>103.04</Consum_domestic_per_capita>
@@ -2435,7 +2435,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>208059</Poblacio>
-    <Domestic_x0020_xarxa>9204048</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9204048</Domestic_xarxa>
     <Activitats_economicas>7428518</Activitats_economicas>
     <Total>16632566</Total>
     <Consum_domestic_per_capita>121.2</Consum_domestic_per_capita>
@@ -2445,7 +2445,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>167837</Poblacio>
-    <Domestic_x0020_xarxa>8370741</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8370741</Domestic_xarxa>
     <Activitats_economicas>10809024</Activitats_economicas>
     <Total>19179765</Total>
     <Consum_domestic_per_capita>136.64</Consum_domestic_per_capita>
@@ -2455,7 +2455,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13360</Poblacio>
-    <Domestic_x0020_xarxa>580710</Domestic_x0020_xarxa>
+    <Domestic_xarxa>580710</Domestic_xarxa>
     <Activitats_economicas>626048</Activitats_economicas>
     <Total>1206758</Total>
     <Consum_domestic_per_capita>119.09</Consum_domestic_per_capita>
@@ -2465,7 +2465,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>250488</Poblacio>
-    <Domestic_x0020_xarxa>12825227</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12825227</Domestic_xarxa>
     <Activitats_economicas>44488069</Activitats_economicas>
     <Total>57313296</Total>
     <Consum_domestic_per_capita>140.28</Consum_domestic_per_capita>
@@ -2475,7 +2475,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11634</Poblacio>
-    <Domestic_x0020_xarxa>406167</Domestic_x0020_xarxa>
+    <Domestic_xarxa>406167</Domestic_xarxa>
     <Activitats_economicas>279399</Activitats_economicas>
     <Total>685566</Total>
     <Consum_domestic_per_capita>95.65</Consum_domestic_per_capita>
@@ -2485,7 +2485,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36028</Poblacio>
-    <Domestic_x0020_xarxa>1452148</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1452148</Domestic_xarxa>
     <Activitats_economicas>975943</Activitats_economicas>
     <Total>2428091</Total>
     <Consum_domestic_per_capita>110.43</Consum_domestic_per_capita>
@@ -2495,7 +2495,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>9985</Poblacio>
-    <Domestic_x0020_xarxa>1240230</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1240230</Domestic_xarxa>
     <Activitats_economicas>942817</Activitats_economicas>
     <Total>2183047</Total>
     <Consum_domestic_per_capita>340.3</Consum_domestic_per_capita>
@@ -2505,7 +2505,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>910031</Poblacio>
-    <Domestic_x0020_xarxa>35865686</Domestic_x0020_xarxa>
+    <Domestic_xarxa>35865686</Domestic_xarxa>
     <Activitats_economicas>23969357</Activitats_economicas>
     <Total>59835043</Total>
     <Consum_domestic_per_capita>107.98</Consum_domestic_per_capita>
@@ -2515,7 +2515,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>403259</Poblacio>
-    <Domestic_x0020_xarxa>16431926</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16431926</Domestic_xarxa>
     <Activitats_economicas>13643366</Activitats_economicas>
     <Total>30075292</Total>
     <Consum_domestic_per_capita>111.64</Consum_domestic_per_capita>
@@ -2525,7 +2525,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44107</Poblacio>
-    <Domestic_x0020_xarxa>1661185</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1661185</Domestic_xarxa>
     <Activitats_economicas>2665065</Activitats_economicas>
     <Total>4326250</Total>
     <Consum_domestic_per_capita>103.19</Consum_domestic_per_capita>
@@ -2535,7 +2535,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>140118</Poblacio>
-    <Domestic_x0020_xarxa>8271485</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8271485</Domestic_xarxa>
     <Activitats_economicas>4652959</Activitats_economicas>
     <Total>12924444</Total>
     <Consum_domestic_per_capita>161.73</Consum_domestic_per_capita>
@@ -2545,7 +2545,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106275</Poblacio>
-    <Domestic_x0020_xarxa>4226715</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4226715</Domestic_xarxa>
     <Activitats_economicas>3023044</Activitats_economicas>
     <Total>7249759</Total>
     <Consum_domestic_per_capita>108.96</Consum_domestic_per_capita>
@@ -2555,7 +2555,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20548</Poblacio>
-    <Domestic_x0020_xarxa>947300</Domestic_x0020_xarxa>
+    <Domestic_xarxa>947300</Domestic_xarxa>
     <Activitats_economicas>1212271</Activitats_economicas>
     <Total>2159571</Total>
     <Consum_domestic_per_capita>126.31</Consum_domestic_per_capita>
@@ -2565,7 +2565,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3867</Poblacio>
-    <Domestic_x0020_xarxa>395244</Domestic_x0020_xarxa>
+    <Domestic_xarxa>395244</Domestic_xarxa>
     <Activitats_economicas>176845</Activitats_economicas>
     <Total>572089</Total>
     <Consum_domestic_per_capita>280.03</Consum_domestic_per_capita>
@@ -2575,7 +2575,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>117504</Poblacio>
-    <Domestic_x0020_xarxa>4728482</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4728482</Domestic_xarxa>
     <Activitats_economicas>5784059</Activitats_economicas>
     <Total>10512541</Total>
     <Consum_domestic_per_capita>110.25</Consum_domestic_per_capita>
@@ -2585,7 +2585,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>174381</Poblacio>
-    <Domestic_x0020_xarxa>7259431</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7259431</Domestic_xarxa>
     <Activitats_economicas>8046674</Activitats_economicas>
     <Total>15306105</Total>
     <Consum_domestic_per_capita>114.05</Consum_domestic_per_capita>
@@ -2595,7 +2595,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>188358</Poblacio>
-    <Domestic_x0020_xarxa>9329320</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9329320</Domestic_xarxa>
     <Activitats_economicas>5875563</Activitats_economicas>
     <Total>15204884</Total>
     <Consum_domestic_per_capita>135.7</Consum_domestic_per_capita>
@@ -2605,7 +2605,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>78977</Poblacio>
-    <Domestic_x0020_xarxa>3448868</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3448868</Domestic_xarxa>
     <Activitats_economicas>4201359</Activitats_economicas>
     <Total>7650227</Total>
     <Consum_domestic_per_capita>119.64</Consum_domestic_per_capita>
@@ -2615,7 +2615,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>132598</Poblacio>
-    <Domestic_x0020_xarxa>10285847</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10285847</Domestic_xarxa>
     <Activitats_economicas>5983396</Activitats_economicas>
     <Total>16269243</Total>
     <Consum_domestic_per_capita>212.53</Consum_domestic_per_capita>
@@ -2625,7 +2625,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>809883</Poblacio>
-    <Domestic_x0020_xarxa>31869678</Domestic_x0020_xarxa>
+    <Domestic_xarxa>31869678</Domestic_xarxa>
     <Activitats_economicas>25421040</Activitats_economicas>
     <Total>57290718</Total>
     <Consum_domestic_per_capita>107.81</Consum_domestic_per_capita>
@@ -2635,7 +2635,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>99813</Poblacio>
-    <Domestic_x0020_xarxa>6126884</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6126884</Domestic_xarxa>
     <Activitats_economicas>2364606</Activitats_economicas>
     <Total>8491490</Total>
     <Consum_domestic_per_capita>168.17</Consum_domestic_per_capita>
@@ -2645,7 +2645,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2232833</Poblacio>
-    <Domestic_x0020_xarxa>84165191</Domestic_x0020_xarxa>
+    <Domestic_xarxa>84165191</Domestic_xarxa>
     <Activitats_economicas>41964365</Activitats_economicas>
     <Total>126129556</Total>
     <Consum_domestic_per_capita>103.27</Consum_domestic_per_capita>
@@ -2655,7 +2655,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39178</Poblacio>
-    <Domestic_x0020_xarxa>1348510</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1348510</Domestic_xarxa>
     <Activitats_economicas>750939</Activitats_economicas>
     <Total>2099449</Total>
     <Consum_domestic_per_capita>94.3</Consum_domestic_per_capita>
@@ -2665,7 +2665,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>17704</Poblacio>
-    <Domestic_x0020_xarxa>1338899</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1338899</Domestic_xarxa>
     <Activitats_economicas>1898452</Activitats_economicas>
     <Total>3237351</Total>
     <Consum_domestic_per_capita>207.2</Consum_domestic_per_capita>
@@ -2675,7 +2675,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20220</Poblacio>
-    <Domestic_x0020_xarxa>741150</Domestic_x0020_xarxa>
+    <Domestic_xarxa>741150</Domestic_xarxa>
     <Activitats_economicas>509781</Activitats_economicas>
     <Total>1250931</Total>
     <Consum_domestic_per_capita>100.42</Consum_domestic_per_capita>
@@ -2685,7 +2685,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>146876</Poblacio>
-    <Domestic_x0020_xarxa>7459255</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7459255</Domestic_xarxa>
     <Activitats_economicas>2985046</Activitats_economicas>
     <Total>10444301</Total>
     <Consum_domestic_per_capita>139.14</Consum_domestic_per_capita>
@@ -2695,7 +2695,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>19090</Poblacio>
-    <Domestic_x0020_xarxa>693387</Domestic_x0020_xarxa>
+    <Domestic_xarxa>693387</Domestic_xarxa>
     <Activitats_economicas>774696</Activitats_economicas>
     <Total>1468083</Total>
     <Consum_domestic_per_capita>99.51</Consum_domestic_per_capita>
@@ -2705,7 +2705,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>55999</Poblacio>
-    <Domestic_x0020_xarxa>2227665</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2227665</Domestic_xarxa>
     <Activitats_economicas>4061032</Activitats_economicas>
     <Total>6288697</Total>
     <Consum_domestic_per_capita>108.99</Consum_domestic_per_capita>
@@ -2715,7 +2715,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>185330</Poblacio>
-    <Domestic_x0020_xarxa>7046873</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7046873</Domestic_xarxa>
     <Activitats_economicas>8966274</Activitats_economicas>
     <Total>16013147</Total>
     <Consum_domestic_per_capita>104.17</Consum_domestic_per_capita>
@@ -2725,7 +2725,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>441505</Poblacio>
-    <Domestic_x0020_xarxa>20694291</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20694291</Domestic_xarxa>
     <Activitats_economicas>9507399</Activitats_economicas>
     <Total>30201690</Total>
     <Consum_domestic_per_capita>128.42</Consum_domestic_per_capita>
@@ -2735,7 +2735,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13209</Poblacio>
-    <Domestic_x0020_xarxa>595949</Domestic_x0020_xarxa>
+    <Domestic_xarxa>595949</Domestic_xarxa>
     <Activitats_economicas>501076</Activitats_economicas>
     <Total>1097025</Total>
     <Consum_domestic_per_capita>123.61</Consum_domestic_per_capita>
@@ -2745,7 +2745,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>67646</Poblacio>
-    <Domestic_x0020_xarxa>2746502</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2746502</Domestic_xarxa>
     <Activitats_economicas>1822371</Activitats_economicas>
     <Total>4568873</Total>
     <Consum_domestic_per_capita>111.24</Consum_domestic_per_capita>
@@ -2755,7 +2755,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>38955</Poblacio>
-    <Domestic_x0020_xarxa>1651771</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1651771</Domestic_xarxa>
     <Activitats_economicas>1708644</Activitats_economicas>
     <Total>3360415</Total>
     <Consum_domestic_per_capita>116.17</Consum_domestic_per_capita>
@@ -2765,7 +2765,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>155641</Poblacio>
-    <Domestic_x0020_xarxa>5973529</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5973529</Domestic_xarxa>
     <Activitats_economicas>7987353</Activitats_economicas>
     <Total>13960882</Total>
     <Consum_domestic_per_capita>105.15</Consum_domestic_per_capita>
@@ -2775,7 +2775,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13453</Poblacio>
-    <Domestic_x0020_xarxa>721963</Domestic_x0020_xarxa>
+    <Domestic_xarxa>721963</Domestic_xarxa>
     <Activitats_economicas>203300</Activitats_economicas>
     <Total>925263</Total>
     <Consum_domestic_per_capita>147.03</Consum_domestic_per_capita>
@@ -2785,7 +2785,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>6986</Poblacio>
-    <Domestic_x0020_xarxa>545692</Domestic_x0020_xarxa>
+    <Domestic_xarxa>545692</Domestic_xarxa>
     <Activitats_economicas>578816</Activitats_economicas>
     <Total>1124508</Total>
     <Consum_domestic_per_capita>214.01</Consum_domestic_per_capita>
@@ -2795,7 +2795,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>36711</Poblacio>
-    <Domestic_x0020_xarxa>1593716</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1593716</Domestic_xarxa>
     <Activitats_economicas>4123642</Activitats_economicas>
     <Total>5717358</Total>
     <Consum_domestic_per_capita>118.94</Consum_domestic_per_capita>
@@ -2805,7 +2805,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31561</Poblacio>
-    <Domestic_x0020_xarxa>1291337</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1291337</Domestic_xarxa>
     <Activitats_economicas>1067420</Activitats_economicas>
     <Total>2358757</Total>
     <Consum_domestic_per_capita>112.1</Consum_domestic_per_capita>
@@ -2815,7 +2815,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9381</Poblacio>
-    <Domestic_x0020_xarxa>345305</Domestic_x0020_xarxa>
+    <Domestic_xarxa>345305</Domestic_xarxa>
     <Activitats_economicas>131791</Activitats_economicas>
     <Total>477096</Total>
     <Consum_domestic_per_capita>100.85</Consum_domestic_per_capita>
@@ -2825,7 +2825,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>22471</Poblacio>
-    <Domestic_x0020_xarxa>961661</Domestic_x0020_xarxa>
+    <Domestic_xarxa>961661</Domestic_xarxa>
     <Activitats_economicas>8371916</Activitats_economicas>
     <Total>9333577</Total>
     <Consum_domestic_per_capita>117.25</Consum_domestic_per_capita>
@@ -2835,7 +2835,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25101</Poblacio>
-    <Domestic_x0020_xarxa>1087930</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1087930</Domestic_xarxa>
     <Activitats_economicas>1125521</Activitats_economicas>
     <Total>2213451</Total>
     <Consum_domestic_per_capita>118.75</Consum_domestic_per_capita>
@@ -2845,7 +2845,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22688</Poblacio>
-    <Domestic_x0020_xarxa>793759</Domestic_x0020_xarxa>
+    <Domestic_xarxa>793759</Domestic_xarxa>
     <Activitats_economicas>2148974</Activitats_economicas>
     <Total>2942733</Total>
     <Consum_domestic_per_capita>96.69</Consum_domestic_per_capita>
@@ -2855,7 +2855,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>208881</Poblacio>
-    <Domestic_x0020_xarxa>9115000</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9115000</Domestic_xarxa>
     <Activitats_economicas>7303052</Activitats_economicas>
     <Total>16418052</Total>
     <Consum_domestic_per_capita>119.55</Consum_domestic_per_capita>
@@ -2865,7 +2865,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>167694</Poblacio>
-    <Domestic_x0020_xarxa>8222718</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8222718</Domestic_xarxa>
     <Activitats_economicas>10387245</Activitats_economicas>
     <Total>18609963</Total>
     <Consum_domestic_per_capita>134.34</Consum_domestic_per_capita>
@@ -2875,7 +2875,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13313</Poblacio>
-    <Domestic_x0020_xarxa>564461</Domestic_x0020_xarxa>
+    <Domestic_xarxa>564461</Domestic_xarxa>
     <Activitats_economicas>690933</Activitats_economicas>
     <Total>1255394</Total>
     <Consum_domestic_per_capita>116.16</Consum_domestic_per_capita>
@@ -2885,7 +2885,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>249565</Poblacio>
-    <Domestic_x0020_xarxa>12789737</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12789737</Domestic_xarxa>
     <Activitats_economicas>41298125</Activitats_economicas>
     <Total>54087862</Total>
     <Consum_domestic_per_capita>140.41</Consum_domestic_per_capita>
@@ -2895,7 +2895,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11761</Poblacio>
-    <Domestic_x0020_xarxa>418737</Domestic_x0020_xarxa>
+    <Domestic_xarxa>418737</Domestic_xarxa>
     <Activitats_economicas>210675</Activitats_economicas>
     <Total>629412</Total>
     <Consum_domestic_per_capita>97.54</Consum_domestic_per_capita>
@@ -2905,7 +2905,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36059</Poblacio>
-    <Domestic_x0020_xarxa>1449132</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1449132</Domestic_xarxa>
     <Activitats_economicas>1027832</Activitats_economicas>
     <Total>2476964</Total>
     <Consum_domestic_per_capita>110.1</Consum_domestic_per_capita>
@@ -2915,7 +2915,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>9930</Poblacio>
-    <Domestic_x0020_xarxa>1204147</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1204147</Domestic_xarxa>
     <Activitats_economicas>1007729</Activitats_economicas>
     <Total>2211876</Total>
     <Consum_domestic_per_capita>332.23</Consum_domestic_per_capita>
@@ -2925,7 +2925,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>904240</Poblacio>
-    <Domestic_x0020_xarxa>35774320</Domestic_x0020_xarxa>
+    <Domestic_xarxa>35774320</Domestic_xarxa>
     <Activitats_economicas>23826057</Activitats_economicas>
     <Total>59600377</Total>
     <Consum_domestic_per_capita>108.39</Consum_domestic_per_capita>
@@ -2935,7 +2935,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>401338</Poblacio>
-    <Domestic_x0020_xarxa>16318469</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16318469</Domestic_xarxa>
     <Activitats_economicas>13033313</Activitats_economicas>
     <Total>29351782</Total>
     <Consum_domestic_per_capita>111.4</Consum_domestic_per_capita>
@@ -2945,7 +2945,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44306</Poblacio>
-    <Domestic_x0020_xarxa>1636063</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1636063</Domestic_xarxa>
     <Activitats_economicas>2722696</Activitats_economicas>
     <Total>4358759</Total>
     <Consum_domestic_per_capita>101.17</Consum_domestic_per_capita>
@@ -2955,7 +2955,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>139838</Poblacio>
-    <Domestic_x0020_xarxa>8054445</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8054445</Domestic_xarxa>
     <Activitats_economicas>4419269</Activitats_economicas>
     <Total>12473714</Total>
     <Consum_domestic_per_capita>157.8</Consum_domestic_per_capita>
@@ -2965,7 +2965,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106168</Poblacio>
-    <Domestic_x0020_xarxa>4165869</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4165869</Domestic_xarxa>
     <Activitats_economicas>3191216</Activitats_economicas>
     <Total>7357085</Total>
     <Consum_domestic_per_capita>107.5</Consum_domestic_per_capita>
@@ -2975,7 +2975,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20695</Poblacio>
-    <Domestic_x0020_xarxa>935197</Domestic_x0020_xarxa>
+    <Domestic_xarxa>935197</Domestic_xarxa>
     <Activitats_economicas>1244003</Activitats_economicas>
     <Total>2179200</Total>
     <Consum_domestic_per_capita>123.81</Consum_domestic_per_capita>
@@ -2985,7 +2985,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3884</Poblacio>
-    <Domestic_x0020_xarxa>396360</Domestic_x0020_xarxa>
+    <Domestic_xarxa>396360</Domestic_xarxa>
     <Activitats_economicas>168289</Activitats_economicas>
     <Total>564649</Total>
     <Consum_domestic_per_capita>279.59</Consum_domestic_per_capita>
@@ -2995,7 +2995,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>117444</Poblacio>
-    <Domestic_x0020_xarxa>4778574</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4778574</Domestic_xarxa>
     <Activitats_economicas>5898268</Activitats_economicas>
     <Total>10676842</Total>
     <Consum_domestic_per_capita>111.47</Consum_domestic_per_capita>
@@ -3005,7 +3005,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>174604</Poblacio>
-    <Domestic_x0020_xarxa>7188027</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7188027</Domestic_xarxa>
     <Activitats_economicas>7641018</Activitats_economicas>
     <Total>14829045</Total>
     <Consum_domestic_per_capita>112.79</Consum_domestic_per_capita>
@@ -3015,7 +3015,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>188026</Poblacio>
-    <Domestic_x0020_xarxa>9471296</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9471296</Domestic_xarxa>
     <Activitats_economicas>5668336</Activitats_economicas>
     <Total>15139632</Total>
     <Consum_domestic_per_capita>138.01</Consum_domestic_per_capita>
@@ -3025,7 +3025,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>79748</Poblacio>
-    <Domestic_x0020_xarxa>3465420</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3465420</Domestic_xarxa>
     <Activitats_economicas>4101378</Activitats_economicas>
     <Total>7566798</Total>
     <Consum_domestic_per_capita>119.8</Consum_domestic_per_capita>
@@ -3035,7 +3035,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>132355</Poblacio>
-    <Domestic_x0020_xarxa>10022321</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10022321</Domestic_xarxa>
     <Activitats_economicas>5662031</Activitats_economicas>
     <Total>15684352</Total>
     <Consum_domestic_per_capita>207.46</Consum_domestic_per_capita>
@@ -3045,7 +3045,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>806651</Poblacio>
-    <Domestic_x0020_xarxa>31091426</Domestic_x0020_xarxa>
+    <Domestic_xarxa>31091426</Domestic_xarxa>
     <Activitats_economicas>24893352</Activitats_economicas>
     <Total>55984778</Total>
     <Consum_domestic_per_capita>105.6</Consum_domestic_per_capita>
@@ -3055,7 +3055,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>99934</Poblacio>
-    <Domestic_x0020_xarxa>6061262</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6061262</Domestic_xarxa>
     <Activitats_economicas>2552027</Activitats_economicas>
     <Total>8613289</Total>
     <Consum_domestic_per_capita>166.17</Consum_domestic_per_capita>
@@ -3065,7 +3065,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2225144</Poblacio>
-    <Domestic_x0020_xarxa>83056436</Domestic_x0020_xarxa>
+    <Domestic_xarxa>83056436</Domestic_xarxa>
     <Activitats_economicas>40509465</Activitats_economicas>
     <Total>123565901</Total>
     <Consum_domestic_per_capita>102.26</Consum_domestic_per_capita>
@@ -3075,7 +3075,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>39517</Poblacio>
-    <Domestic_x0020_xarxa>1423542</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1423542</Domestic_xarxa>
     <Activitats_economicas>781497</Activitats_economicas>
     <Total>2205039</Total>
     <Consum_domestic_per_capita>98.69</Consum_domestic_per_capita>
@@ -3085,7 +3085,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>17870</Poblacio>
-    <Domestic_x0020_xarxa>1284622</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1284622</Domestic_xarxa>
     <Activitats_economicas>1522740</Activitats_economicas>
     <Total>2807362</Total>
     <Consum_domestic_per_capita>196.95</Consum_domestic_per_capita>
@@ -3095,7 +3095,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20482</Poblacio>
-    <Domestic_x0020_xarxa>812844</Domestic_x0020_xarxa>
+    <Domestic_xarxa>812844</Domestic_xarxa>
     <Activitats_economicas>501264</Activitats_economicas>
     <Total>1314108</Total>
     <Consum_domestic_per_capita>108.73</Consum_domestic_per_capita>
@@ -3105,7 +3105,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>145983</Poblacio>
-    <Domestic_x0020_xarxa>7151536</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7151536</Domestic_xarxa>
     <Activitats_economicas>2785672</Activitats_economicas>
     <Total>9937208</Total>
     <Consum_domestic_per_capita>134.22</Consum_domestic_per_capita>
@@ -3115,7 +3115,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>19342</Poblacio>
-    <Domestic_x0020_xarxa>662681</Domestic_x0020_xarxa>
+    <Domestic_xarxa>662681</Domestic_xarxa>
     <Activitats_economicas>802841</Activitats_economicas>
     <Total>1465522</Total>
     <Consum_domestic_per_capita>93.87</Consum_domestic_per_capita>
@@ -3125,7 +3125,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>56063</Poblacio>
-    <Domestic_x0020_xarxa>2248680</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2248680</Domestic_xarxa>
     <Activitats_economicas>4007872</Activitats_economicas>
     <Total>6256552</Total>
     <Consum_domestic_per_capita>109.89</Consum_domestic_per_capita>
@@ -3135,7 +3135,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>184993</Poblacio>
-    <Domestic_x0020_xarxa>6907649</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6907649</Domestic_xarxa>
     <Activitats_economicas>8509526</Activitats_economicas>
     <Total>15417175</Total>
     <Consum_domestic_per_capita>102.3</Consum_domestic_per_capita>
@@ -3145,7 +3145,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>439512</Poblacio>
-    <Domestic_x0020_xarxa>20196097</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20196097</Domestic_xarxa>
     <Activitats_economicas>8870849</Activitats_economicas>
     <Total>29066946</Total>
     <Consum_domestic_per_capita>125.89</Consum_domestic_per_capita>
@@ -3155,7 +3155,7 @@
     <Codi_comarca>42</Codi_comarca>
     <Comarca>Moianès</Comarca>
     <Poblacio>13098</Poblacio>
-    <Domestic_x0020_xarxa>580414</Domestic_x0020_xarxa>
+    <Domestic_xarxa>580414</Domestic_xarxa>
     <Activitats_economicas>495071</Activitats_economicas>
     <Total>1075485</Total>
     <Consum_domestic_per_capita>121.41</Consum_domestic_per_capita>
@@ -3165,7 +3165,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>68524</Poblacio>
-    <Domestic_x0020_xarxa>2745545</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2745545</Domestic_xarxa>
     <Activitats_economicas>1874703</Activitats_economicas>
     <Total>4620248</Total>
     <Consum_domestic_per_capita>109.77</Consum_domestic_per_capita>
@@ -3175,7 +3175,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39109</Poblacio>
-    <Domestic_x0020_xarxa>1629840</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1629840</Domestic_xarxa>
     <Activitats_economicas>1605506</Activitats_economicas>
     <Total>3235346</Total>
     <Consum_domestic_per_capita>114.18</Consum_domestic_per_capita>
@@ -3185,7 +3185,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>154925</Poblacio>
-    <Domestic_x0020_xarxa>5814449</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5814449</Domestic_xarxa>
     <Activitats_economicas>7413217</Activitats_economicas>
     <Total>13227666</Total>
     <Consum_domestic_per_capita>102.82</Consum_domestic_per_capita>
@@ -3195,7 +3195,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13609</Poblacio>
-    <Domestic_x0020_xarxa>736663</Domestic_x0020_xarxa>
+    <Domestic_xarxa>736663</Domestic_xarxa>
     <Activitats_economicas>195045</Activitats_economicas>
     <Total>931708</Total>
     <Consum_domestic_per_capita>148.3</Consum_domestic_per_capita>
@@ -3205,7 +3205,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7060</Poblacio>
-    <Domestic_x0020_xarxa>536563</Domestic_x0020_xarxa>
+    <Domestic_xarxa>536563</Domestic_xarxa>
     <Activitats_economicas>607214</Activitats_economicas>
     <Total>1143777</Total>
     <Consum_domestic_per_capita>208.22</Consum_domestic_per_capita>
@@ -3215,7 +3215,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>37053</Poblacio>
-    <Domestic_x0020_xarxa>1582515</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1582515</Domestic_xarxa>
     <Activitats_economicas>4186586</Activitats_economicas>
     <Total>5769101</Total>
     <Consum_domestic_per_capita>117.01</Consum_domestic_per_capita>
@@ -3225,7 +3225,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31536</Poblacio>
-    <Domestic_x0020_xarxa>1300667</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1300667</Domestic_xarxa>
     <Activitats_economicas>1074214</Activitats_economicas>
     <Total>2374881</Total>
     <Consum_domestic_per_capita>113</Consum_domestic_per_capita>
@@ -3235,7 +3235,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9547</Poblacio>
-    <Domestic_x0020_xarxa>345512</Domestic_x0020_xarxa>
+    <Domestic_xarxa>345512</Domestic_xarxa>
     <Activitats_economicas>120384</Activitats_economicas>
     <Total>465896</Total>
     <Consum_domestic_per_capita>99.15</Consum_domestic_per_capita>
@@ -3245,7 +3245,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>22723</Poblacio>
-    <Domestic_x0020_xarxa>918309</Domestic_x0020_xarxa>
+    <Domestic_xarxa>918309</Domestic_xarxa>
     <Activitats_economicas>7689654</Activitats_economicas>
     <Total>8607963</Total>
     <Consum_domestic_per_capita>110.72</Consum_domestic_per_capita>
@@ -3255,7 +3255,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25342</Poblacio>
-    <Domestic_x0020_xarxa>1052891</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1052891</Domestic_xarxa>
     <Activitats_economicas>1127530</Activitats_economicas>
     <Total>2180421</Total>
     <Consum_domestic_per_capita>113.83</Consum_domestic_per_capita>
@@ -3265,7 +3265,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22647</Poblacio>
-    <Domestic_x0020_xarxa>777366</Domestic_x0020_xarxa>
+    <Domestic_xarxa>777366</Domestic_xarxa>
     <Activitats_economicas>2002355</Activitats_economicas>
     <Total>2779721</Total>
     <Consum_domestic_per_capita>94.94</Consum_domestic_per_capita>
@@ -3275,7 +3275,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>209324</Poblacio>
-    <Domestic_x0020_xarxa>9163292</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9163292</Domestic_xarxa>
     <Activitats_economicas>7217816</Activitats_economicas>
     <Total>16381108</Total>
     <Consum_domestic_per_capita>119.93</Consum_domestic_per_capita>
@@ -3285,7 +3285,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>168555</Poblacio>
-    <Domestic_x0020_xarxa>8207896</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8207896</Domestic_xarxa>
     <Activitats_economicas>10363124</Activitats_economicas>
     <Total>18571020</Total>
     <Consum_domestic_per_capita>133.41</Consum_domestic_per_capita>
@@ -3295,7 +3295,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13414</Poblacio>
-    <Domestic_x0020_xarxa>563946</Domestic_x0020_xarxa>
+    <Domestic_xarxa>563946</Domestic_xarxa>
     <Activitats_economicas>589902</Activitats_economicas>
     <Total>1153848</Total>
     <Consum_domestic_per_capita>115.18</Consum_domestic_per_capita>
@@ -3305,7 +3305,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>249939</Poblacio>
-    <Domestic_x0020_xarxa>12596402</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12596402</Domestic_xarxa>
     <Activitats_economicas>40040896</Activitats_economicas>
     <Total>52637298</Total>
     <Consum_domestic_per_capita>138.08</Consum_domestic_per_capita>
@@ -3315,7 +3315,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>11872</Poblacio>
-    <Domestic_x0020_xarxa>401129</Domestic_x0020_xarxa>
+    <Domestic_xarxa>401129</Domestic_xarxa>
     <Activitats_economicas>215591</Activitats_economicas>
     <Total>616720</Total>
     <Consum_domestic_per_capita>92.57</Consum_domestic_per_capita>
@@ -3325,7 +3325,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36308</Poblacio>
-    <Domestic_x0020_xarxa>1472649</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1472649</Domestic_xarxa>
     <Activitats_economicas>1073074</Activitats_economicas>
     <Total>2545723</Total>
     <Consum_domestic_per_capita>111.12</Consum_domestic_per_capita>
@@ -3335,7 +3335,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>9926</Poblacio>
-    <Domestic_x0020_xarxa>1147560</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1147560</Domestic_xarxa>
     <Activitats_economicas>644619</Activitats_economicas>
     <Total>1792179</Total>
     <Consum_domestic_per_capita>316.74</Consum_domestic_per_capita>
@@ -3345,7 +3345,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>900661</Poblacio>
-    <Domestic_x0020_xarxa>35212831</Domestic_x0020_xarxa>
+    <Domestic_xarxa>35212831</Domestic_xarxa>
     <Activitats_economicas>23363113</Activitats_economicas>
     <Total>58575944</Total>
     <Consum_domestic_per_capita>107.11</Consum_domestic_per_capita>
@@ -3355,7 +3355,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>400375</Poblacio>
-    <Domestic_x0020_xarxa>16192241</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16192241</Domestic_xarxa>
     <Activitats_economicas>13026930</Activitats_economicas>
     <Total>29219171</Total>
     <Consum_domestic_per_capita>110.8</Consum_domestic_per_capita>
@@ -3365,7 +3365,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44578</Poblacio>
-    <Domestic_x0020_xarxa>1625189</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1625189</Domestic_xarxa>
     <Activitats_economicas>2788655</Activitats_economicas>
     <Total>4413844</Total>
     <Consum_domestic_per_capita>99.88</Consum_domestic_per_capita>
@@ -3375,7 +3375,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>140214</Poblacio>
-    <Domestic_x0020_xarxa>7981472</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7981472</Domestic_xarxa>
     <Activitats_economicas>4306446</Activitats_economicas>
     <Total>12287918</Total>
     <Consum_domestic_per_capita>155.95</Consum_domestic_per_capita>
@@ -3385,7 +3385,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106262</Poblacio>
-    <Domestic_x0020_xarxa>4164004</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4164004</Domestic_xarxa>
     <Activitats_economicas>2986095</Activitats_economicas>
     <Total>7150099</Total>
     <Consum_domestic_per_capita>107.36</Consum_domestic_per_capita>
@@ -3395,7 +3395,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>20878</Poblacio>
-    <Domestic_x0020_xarxa>921501</Domestic_x0020_xarxa>
+    <Domestic_xarxa>921501</Domestic_xarxa>
     <Activitats_economicas>1145369</Activitats_economicas>
     <Total>2066870</Total>
     <Consum_domestic_per_capita>120.92</Consum_domestic_per_capita>
@@ -3405,7 +3405,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>3873</Poblacio>
-    <Domestic_x0020_xarxa>396144</Domestic_x0020_xarxa>
+    <Domestic_xarxa>396144</Domestic_xarxa>
     <Activitats_economicas>173827</Activitats_economicas>
     <Total>569971</Total>
     <Consum_domestic_per_capita>280.23</Consum_domestic_per_capita>
@@ -3415,7 +3415,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>117842</Poblacio>
-    <Domestic_x0020_xarxa>4605919</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4605919</Domestic_xarxa>
     <Activitats_economicas>5606479</Activitats_economicas>
     <Total>10212398</Total>
     <Consum_domestic_per_capita>107.08</Consum_domestic_per_capita>
@@ -3425,7 +3425,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>184403</Poblacio>
-    <Domestic_x0020_xarxa>7403429</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7403429</Domestic_xarxa>
     <Activitats_economicas>8171835</Activitats_economicas>
     <Total>15575264</Total>
     <Consum_domestic_per_capita>109.99</Consum_domestic_per_capita>
@@ -3435,7 +3435,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>190249</Poblacio>
-    <Domestic_x0020_xarxa>9528941</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9528941</Domestic_xarxa>
     <Activitats_economicas>11823864</Activitats_economicas>
     <Total>21352805</Total>
     <Consum_domestic_per_capita>137.22</Consum_domestic_per_capita>
@@ -3445,7 +3445,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>80637</Poblacio>
-    <Domestic_x0020_xarxa>3392294</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3392294</Domestic_xarxa>
     <Activitats_economicas>4497676</Activitats_economicas>
     <Total>7889970</Total>
     <Consum_domestic_per_capita>115.26</Consum_domestic_per_capita>
@@ -3455,7 +3455,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>132886</Poblacio>
-    <Domestic_x0020_xarxa>9458248</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9458248</Domestic_xarxa>
     <Activitats_economicas>4851859</Activitats_economicas>
     <Total>14310107</Total>
     <Consum_domestic_per_capita>195</Consum_domestic_per_capita>
@@ -3465,7 +3465,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>806249</Poblacio>
-    <Domestic_x0020_xarxa>30809259</Domestic_x0020_xarxa>
+    <Domestic_xarxa>30809259</Domestic_xarxa>
     <Activitats_economicas>24661483</Activitats_economicas>
     <Total>55470742</Total>
     <Consum_domestic_per_capita>104.69</Consum_domestic_per_capita>
@@ -3475,7 +3475,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>100262</Poblacio>
-    <Domestic_x0020_xarxa>5933565</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5933565</Domestic_xarxa>
     <Activitats_economicas>2506230</Activitats_economicas>
     <Total>8439795</Total>
     <Consum_domestic_per_capita>162.14</Consum_domestic_per_capita>
@@ -3485,7 +3485,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2227238</Poblacio>
-    <Domestic_x0020_xarxa>82237554</Domestic_x0020_xarxa>
+    <Domestic_xarxa>82237554</Domestic_xarxa>
     <Activitats_economicas>38891563</Activitats_economicas>
     <Total>121129117</Total>
     <Consum_domestic_per_capita>101.16</Consum_domestic_per_capita>
@@ -3495,7 +3495,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>40039</Poblacio>
-    <Domestic_x0020_xarxa>1393824</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1393824</Domestic_xarxa>
     <Activitats_economicas>747915</Activitats_economicas>
     <Total>2141739</Total>
     <Consum_domestic_per_capita>95.37</Consum_domestic_per_capita>
@@ -3505,7 +3505,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>18063</Poblacio>
-    <Domestic_x0020_xarxa>1215572</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1215572</Domestic_xarxa>
     <Activitats_economicas>1162875</Activitats_economicas>
     <Total>2378447</Total>
     <Consum_domestic_per_capita>184.37</Consum_domestic_per_capita>
@@ -3515,7 +3515,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20723</Poblacio>
-    <Domestic_x0020_xarxa>798442</Domestic_x0020_xarxa>
+    <Domestic_xarxa>798442</Domestic_xarxa>
     <Activitats_economicas>458874</Activitats_economicas>
     <Total>1257316</Total>
     <Consum_domestic_per_capita>105.56</Consum_domestic_per_capita>
@@ -3525,7 +3525,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>145886</Poblacio>
-    <Domestic_x0020_xarxa>7590074</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7590074</Domestic_xarxa>
     <Activitats_economicas>2895542</Activitats_economicas>
     <Total>10485616</Total>
     <Consum_domestic_per_capita>142.54</Consum_domestic_per_capita>
@@ -3535,7 +3535,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>19762</Poblacio>
-    <Domestic_x0020_xarxa>665180</Domestic_x0020_xarxa>
+    <Domestic_xarxa>665180</Domestic_xarxa>
     <Activitats_economicas>702801</Activitats_economicas>
     <Total>1367981</Total>
     <Consum_domestic_per_capita>92.22</Consum_domestic_per_capita>
@@ -3545,7 +3545,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>56036</Poblacio>
-    <Domestic_x0020_xarxa>2066636</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2066636</Domestic_xarxa>
     <Activitats_economicas>3868508</Activitats_economicas>
     <Total>5935143</Total>
     <Consum_domestic_per_capita>101.04</Consum_domestic_per_capita>
@@ -3555,7 +3555,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>185085</Poblacio>
-    <Domestic_x0020_xarxa>6841815</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6841815</Domestic_xarxa>
     <Activitats_economicas>9014071</Activitats_economicas>
     <Total>15855886</Total>
     <Consum_domestic_per_capita>101.28</Consum_domestic_per_capita>
@@ -3565,7 +3565,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>437919</Poblacio>
-    <Domestic_x0020_xarxa>20012999</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20012999</Domestic_xarxa>
     <Activitats_economicas>9050995</Activitats_economicas>
     <Total>29063994</Total>
     <Consum_domestic_per_capita>125.21</Consum_domestic_per_capita>
@@ -3575,7 +3575,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>69613</Poblacio>
-    <Domestic_x0020_xarxa>2797142</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2797142</Domestic_xarxa>
     <Activitats_economicas>1790537</Activitats_economicas>
     <Total>4587679</Total>
     <Consum_domestic_per_capita>110.09</Consum_domestic_per_capita>
@@ -3585,7 +3585,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39376</Poblacio>
-    <Domestic_x0020_xarxa>1660544</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1660544</Domestic_xarxa>
     <Activitats_economicas>1476874</Activitats_economicas>
     <Total>3137418</Total>
     <Consum_domestic_per_capita>115.54</Consum_domestic_per_capita>
@@ -3595,7 +3595,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>154897</Poblacio>
-    <Domestic_x0020_xarxa>5574220</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5574220</Domestic_xarxa>
     <Activitats_economicas>6796591</Activitats_economicas>
     <Total>12370811</Total>
     <Consum_domestic_per_capita>98.59</Consum_domestic_per_capita>
@@ -3605,7 +3605,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13530</Poblacio>
-    <Domestic_x0020_xarxa>752083</Domestic_x0020_xarxa>
+    <Domestic_xarxa>752083</Domestic_xarxa>
     <Activitats_economicas>192028</Activitats_economicas>
     <Total>944111</Total>
     <Consum_domestic_per_capita>152.29</Consum_domestic_per_capita>
@@ -3615,7 +3615,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7220</Poblacio>
-    <Domestic_x0020_xarxa>537167</Domestic_x0020_xarxa>
+    <Domestic_xarxa>537167</Domestic_xarxa>
     <Activitats_economicas>585147</Activitats_economicas>
     <Total>1122314</Total>
     <Consum_domestic_per_capita>203.84</Consum_domestic_per_capita>
@@ -3625,7 +3625,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>37128</Poblacio>
-    <Domestic_x0020_xarxa>1532053</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1532053</Domestic_xarxa>
     <Activitats_economicas>4175290</Activitats_economicas>
     <Total>5707343</Total>
     <Consum_domestic_per_capita>113.05</Consum_domestic_per_capita>
@@ -3635,7 +3635,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31554</Poblacio>
-    <Domestic_x0020_xarxa>1251445</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1251445</Domestic_xarxa>
     <Activitats_economicas>1014602</Activitats_economicas>
     <Total>2266047</Total>
     <Consum_domestic_per_capita>108.66</Consum_domestic_per_capita>
@@ -3645,7 +3645,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9550</Poblacio>
-    <Domestic_x0020_xarxa>349098</Domestic_x0020_xarxa>
+    <Domestic_xarxa>349098</Domestic_xarxa>
     <Activitats_economicas>114356</Activitats_economicas>
     <Total>463454</Total>
     <Consum_domestic_per_capita>100.15</Consum_domestic_per_capita>
@@ -3655,7 +3655,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>22925</Poblacio>
-    <Domestic_x0020_xarxa>917038</Domestic_x0020_xarxa>
+    <Domestic_xarxa>917038</Domestic_xarxa>
     <Activitats_economicas>6453950</Activitats_economicas>
     <Total>7370988</Total>
     <Consum_domestic_per_capita>109.59</Consum_domestic_per_capita>
@@ -3665,7 +3665,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25700</Poblacio>
-    <Domestic_x0020_xarxa>993446</Domestic_x0020_xarxa>
+    <Domestic_xarxa>993446</Domestic_xarxa>
     <Activitats_economicas>1180675</Activitats_economicas>
     <Total>2174121</Total>
     <Consum_domestic_per_capita>105.91</Consum_domestic_per_capita>
@@ -3675,7 +3675,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22713</Poblacio>
-    <Domestic_x0020_xarxa>734239</Domestic_x0020_xarxa>
+    <Domestic_xarxa>734239</Domestic_xarxa>
     <Activitats_economicas>1869849</Activitats_economicas>
     <Total>2604088</Total>
     <Consum_domestic_per_capita>89.5</Consum_domestic_per_capita>
@@ -3685,7 +3685,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>209768</Poblacio>
-    <Domestic_x0020_xarxa>8976024</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8976024</Domestic_xarxa>
     <Activitats_economicas>7125512</Activitats_economicas>
     <Total>16101536</Total>
     <Consum_domestic_per_capita>117.23</Consum_domestic_per_capita>
@@ -3695,7 +3695,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>170249</Poblacio>
-    <Domestic_x0020_xarxa>8011628</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8011628</Domestic_xarxa>
     <Activitats_economicas>10255255</Activitats_economicas>
     <Total>18266883</Total>
     <Consum_domestic_per_capita>128.93</Consum_domestic_per_capita>
@@ -3705,7 +3705,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13497</Poblacio>
-    <Domestic_x0020_xarxa>590638</Domestic_x0020_xarxa>
+    <Domestic_xarxa>590638</Domestic_xarxa>
     <Activitats_economicas>926171</Activitats_economicas>
     <Total>1516809</Total>
     <Consum_domestic_per_capita>119.89</Consum_domestic_per_capita>
@@ -3715,7 +3715,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>250306</Poblacio>
-    <Domestic_x0020_xarxa>12751489</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12751489</Domestic_xarxa>
     <Activitats_economicas>38524616</Activitats_economicas>
     <Total>51276105</Total>
     <Consum_domestic_per_capita>139.57</Consum_domestic_per_capita>
@@ -3725,7 +3725,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>12119</Poblacio>
-    <Domestic_x0020_xarxa>413746</Domestic_x0020_xarxa>
+    <Domestic_xarxa>413746</Domestic_xarxa>
     <Activitats_economicas>186439</Activitats_economicas>
     <Total>600185</Total>
     <Consum_domestic_per_capita>93.54</Consum_domestic_per_capita>
@@ -3735,7 +3735,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36526</Poblacio>
-    <Domestic_x0020_xarxa>1396467</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1396467</Domestic_xarxa>
     <Activitats_economicas>907574</Activitats_economicas>
     <Total>2304041</Total>
     <Consum_domestic_per_capita>104.75</Consum_domestic_per_capita>
@@ -3745,7 +3745,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>9993</Poblacio>
-    <Domestic_x0020_xarxa>1111431</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1111431</Domestic_xarxa>
     <Activitats_economicas>576937</Activitats_economicas>
     <Total>1688368</Total>
     <Consum_domestic_per_capita>304.71</Consum_domestic_per_capita>
@@ -3755,7 +3755,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>899532</Poblacio>
-    <Domestic_x0020_xarxa>34661542</Domestic_x0020_xarxa>
+    <Domestic_xarxa>34661542</Domestic_xarxa>
     <Activitats_economicas>23275814</Activitats_economicas>
     <Total>57937356</Total>
     <Consum_domestic_per_capita>105.57</Consum_domestic_per_capita>
@@ -3765,7 +3765,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>403623</Poblacio>
-    <Domestic_x0020_xarxa>15888994</Domestic_x0020_xarxa>
+    <Domestic_xarxa>15888994</Domestic_xarxa>
     <Activitats_economicas>13615747</Activitats_economicas>
     <Total>29504742</Total>
     <Consum_domestic_per_capita>107.85</Consum_domestic_per_capita>
@@ -3775,7 +3775,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>44771</Poblacio>
-    <Domestic_x0020_xarxa>1697473</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1697473</Domestic_xarxa>
     <Activitats_economicas>2674706</Activitats_economicas>
     <Total>4372179</Total>
     <Consum_domestic_per_capita>103.88</Consum_domestic_per_capita>
@@ -3785,7 +3785,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>141351</Poblacio>
-    <Domestic_x0020_xarxa>8179176</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8179176</Domestic_xarxa>
     <Activitats_economicas>4483290</Activitats_economicas>
     <Total>12662466</Total>
     <Consum_domestic_per_capita>158.53</Consum_domestic_per_capita>
@@ -3795,7 +3795,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106242</Poblacio>
-    <Domestic_x0020_xarxa>4202713</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4202713</Domestic_xarxa>
     <Activitats_economicas>3155991</Activitats_economicas>
     <Total>7358704</Total>
     <Consum_domestic_per_capita>108.38</Consum_domestic_per_capita>
@@ -3805,7 +3805,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>21128</Poblacio>
-    <Domestic_x0020_xarxa>929937</Domestic_x0020_xarxa>
+    <Domestic_xarxa>929937</Domestic_xarxa>
     <Activitats_economicas>1151884</Activitats_economicas>
     <Total>2081821</Total>
     <Consum_domestic_per_capita>120.59</Consum_domestic_per_capita>
@@ -3815,7 +3815,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>4097</Poblacio>
-    <Domestic_x0020_xarxa>391968</Domestic_x0020_xarxa>
+    <Domestic_xarxa>391968</Domestic_xarxa>
     <Activitats_economicas>179843</Activitats_economicas>
     <Total>571811</Total>
     <Consum_domestic_per_capita>262.11</Consum_domestic_per_capita>
@@ -3825,7 +3825,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>118467</Poblacio>
-    <Domestic_x0020_xarxa>4730942</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4730942</Domestic_xarxa>
     <Activitats_economicas>5474176</Activitats_economicas>
     <Total>10205118</Total>
     <Consum_domestic_per_capita>109.41</Consum_domestic_per_capita>
@@ -3835,7 +3835,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>185718</Poblacio>
-    <Domestic_x0020_xarxa>7472919</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7472919</Domestic_xarxa>
     <Activitats_economicas>7751893</Activitats_economicas>
     <Total>15224812</Total>
     <Consum_domestic_per_capita>110.24</Consum_domestic_per_capita>
@@ -3845,7 +3845,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>193455</Poblacio>
-    <Domestic_x0020_xarxa>9677502</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9677502</Domestic_xarxa>
     <Activitats_economicas>10245698</Activitats_economicas>
     <Total>19923200</Total>
     <Consum_domestic_per_capita>137.05</Consum_domestic_per_capita>
@@ -3855,7 +3855,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>81514</Poblacio>
-    <Domestic_x0020_xarxa>3390997</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3390997</Domestic_xarxa>
     <Activitats_economicas>3728866</Activitats_economicas>
     <Total>7119863</Total>
     <Consum_domestic_per_capita>113.97</Consum_domestic_per_capita>
@@ -3865,7 +3865,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>133787</Poblacio>
-    <Domestic_x0020_xarxa>9528996</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9528996</Domestic_xarxa>
     <Activitats_economicas>5219551</Activitats_economicas>
     <Total>14748546</Total>
     <Consum_domestic_per_capita>195.14</Consum_domestic_per_capita>
@@ -3875,7 +3875,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>808644</Poblacio>
-    <Domestic_x0020_xarxa>31227063</Domestic_x0020_xarxa>
+    <Domestic_xarxa>31227063</Domestic_xarxa>
     <Activitats_economicas>24910788</Activitats_economicas>
     <Total>56137851</Total>
     <Consum_domestic_per_capita>105.8</Consum_domestic_per_capita>
@@ -3885,7 +3885,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>101100</Poblacio>
-    <Domestic_x0020_xarxa>6079158</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6079158</Domestic_xarxa>
     <Activitats_economicas>2590907</Activitats_economicas>
     <Total>8670065</Total>
     <Consum_domestic_per_capita>164.74</Consum_domestic_per_capita>
@@ -3895,7 +3895,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2240437</Poblacio>
-    <Domestic_x0020_xarxa>83674573</Domestic_x0020_xarxa>
+    <Domestic_xarxa>83674573</Domestic_xarxa>
     <Activitats_economicas>38945124</Activitats_economicas>
     <Total>122619697</Total>
     <Consum_domestic_per_capita>102.32</Consum_domestic_per_capita>
@@ -3905,7 +3905,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>40555</Poblacio>
-    <Domestic_x0020_xarxa>1390862</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1390862</Domestic_xarxa>
     <Activitats_economicas>727972</Activitats_economicas>
     <Total>2118834</Total>
     <Consum_domestic_per_capita>93.96</Consum_domestic_per_capita>
@@ -3915,7 +3915,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>18630</Poblacio>
-    <Domestic_x0020_xarxa>1336710</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1336710</Domestic_xarxa>
     <Activitats_economicas>1316639</Activitats_economicas>
     <Total>2653349</Total>
     <Consum_domestic_per_capita>196.58</Consum_domestic_per_capita>
@@ -3925,7 +3925,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>20992</Poblacio>
-    <Domestic_x0020_xarxa>836155</Domestic_x0020_xarxa>
+    <Domestic_xarxa>836155</Domestic_xarxa>
     <Activitats_economicas>451880</Activitats_economicas>
     <Total>1288035</Total>
     <Consum_domestic_per_capita>109.13</Consum_domestic_per_capita>
@@ -3935,7 +3935,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>146609</Poblacio>
-    <Domestic_x0020_xarxa>7353811</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7353811</Domestic_xarxa>
     <Activitats_economicas>2546227</Activitats_economicas>
     <Total>9900038</Total>
     <Consum_domestic_per_capita>137.42</Consum_domestic_per_capita>
@@ -3945,7 +3945,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>20058</Poblacio>
-    <Domestic_x0020_xarxa>652445</Domestic_x0020_xarxa>
+    <Domestic_xarxa>652445</Domestic_xarxa>
     <Activitats_economicas>687635</Activitats_economicas>
     <Total>1340080</Total>
     <Consum_domestic_per_capita>89.12</Consum_domestic_per_capita>
@@ -3955,7 +3955,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>56106</Poblacio>
-    <Domestic_x0020_xarxa>2069654</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2069654</Domestic_xarxa>
     <Activitats_economicas>3860391</Activitats_economicas>
     <Total>5930045</Total>
     <Consum_domestic_per_capita>101.06</Consum_domestic_per_capita>
@@ -3965,7 +3965,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>185085</Poblacio>
-    <Domestic_x0020_xarxa>6887295</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6887295</Domestic_xarxa>
     <Activitats_economicas>9276331</Activitats_economicas>
     <Total>16163626</Total>
     <Consum_domestic_per_capita>101.95</Consum_domestic_per_capita>
@@ -3975,7 +3975,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>437431</Poblacio>
-    <Domestic_x0020_xarxa>20130855</Domestic_x0020_xarxa>
+    <Domestic_xarxa>20130855</Domestic_xarxa>
     <Activitats_economicas>9240030</Activitats_economicas>
     <Total>29370885</Total>
     <Consum_domestic_per_capita>126.08</Consum_domestic_per_capita>
@@ -3985,7 +3985,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>71577</Poblacio>
-    <Domestic_x0020_xarxa>2697538</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2697538</Domestic_xarxa>
     <Activitats_economicas>1707177</Activitats_economicas>
     <Total>4404715</Total>
     <Consum_domestic_per_capita>103.25</Consum_domestic_per_capita>
@@ -3995,7 +3995,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>39828</Poblacio>
-    <Domestic_x0020_xarxa>1647118</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1647118</Domestic_xarxa>
     <Activitats_economicas>1170474</Activitats_economicas>
     <Total>2817591</Total>
     <Consum_domestic_per_capita>113.3</Consum_domestic_per_capita>
@@ -4005,7 +4005,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>155069</Poblacio>
-    <Domestic_x0020_xarxa>5692392</Domestic_x0020_xarxa>
+    <Domestic_xarxa>5692392</Domestic_xarxa>
     <Activitats_economicas>6365183</Activitats_economicas>
     <Total>12057575</Total>
     <Consum_domestic_per_capita>100.57</Consum_domestic_per_capita>
@@ -4015,7 +4015,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>13607</Poblacio>
-    <Domestic_x0020_xarxa>784788</Domestic_x0020_xarxa>
+    <Domestic_xarxa>784788</Domestic_xarxa>
     <Activitats_economicas>227831</Activitats_economicas>
     <Total>1012619</Total>
     <Consum_domestic_per_capita>158.01</Consum_domestic_per_capita>
@@ -4025,7 +4025,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7330</Poblacio>
-    <Domestic_x0020_xarxa>517686</Domestic_x0020_xarxa>
+    <Domestic_xarxa>517686</Domestic_xarxa>
     <Activitats_economicas>517210</Activitats_economicas>
     <Total>1034897</Total>
     <Consum_domestic_per_capita>193.49</Consum_domestic_per_capita>
@@ -4035,7 +4035,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>37249</Poblacio>
-    <Domestic_x0020_xarxa>1540980</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1540980</Domestic_xarxa>
     <Activitats_economicas>4116246</Activitats_economicas>
     <Total>5657226</Total>
     <Consum_domestic_per_capita>113.34</Consum_domestic_per_capita>
@@ -4045,7 +4045,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31325</Poblacio>
-    <Domestic_x0020_xarxa>1256360</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1256360</Domestic_xarxa>
     <Activitats_economicas>1040814</Activitats_economicas>
     <Total>2297174</Total>
     <Consum_domestic_per_capita>109.88</Consum_domestic_per_capita>
@@ -4055,7 +4055,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9756</Poblacio>
-    <Domestic_x0020_xarxa>366489</Domestic_x0020_xarxa>
+    <Domestic_xarxa>366489</Domestic_xarxa>
     <Activitats_economicas>112611</Activitats_economicas>
     <Total>479100</Total>
     <Consum_domestic_per_capita>102.92</Consum_domestic_per_capita>
@@ -4065,7 +4065,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>23477</Poblacio>
-    <Domestic_x0020_xarxa>926323</Domestic_x0020_xarxa>
+    <Domestic_xarxa>926323</Domestic_xarxa>
     <Activitats_economicas>7955341</Activitats_economicas>
     <Total>8881664</Total>
     <Consum_domestic_per_capita>108.1</Consum_domestic_per_capita>
@@ -4075,7 +4075,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>25995</Poblacio>
-    <Domestic_x0020_xarxa>1119910</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1119910</Domestic_xarxa>
     <Activitats_economicas>1171390</Activitats_economicas>
     <Total>2291300</Total>
     <Consum_domestic_per_capita>118.03</Consum_domestic_per_capita>
@@ -4085,7 +4085,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>22971</Poblacio>
-    <Domestic_x0020_xarxa>777167</Domestic_x0020_xarxa>
+    <Domestic_xarxa>777167</Domestic_xarxa>
     <Activitats_economicas>1711211</Activitats_economicas>
     <Total>2488379</Total>
     <Consum_domestic_per_capita>93.44</Consum_domestic_per_capita>
@@ -4095,7 +4095,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>210141</Poblacio>
-    <Domestic_x0020_xarxa>9066254</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9066254</Domestic_xarxa>
     <Activitats_economicas>7418179</Activitats_economicas>
     <Total>16484433</Total>
     <Consum_domestic_per_capita>118.2</Consum_domestic_per_capita>
@@ -4105,7 +4105,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>173128</Poblacio>
-    <Domestic_x0020_xarxa>8017307</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8017307</Domestic_xarxa>
     <Activitats_economicas>9620983</Activitats_economicas>
     <Total>17638290</Total>
     <Consum_domestic_per_capita>126.87</Consum_domestic_per_capita>
@@ -4115,7 +4115,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13621</Poblacio>
-    <Domestic_x0020_xarxa>601085</Domestic_x0020_xarxa>
+    <Domestic_xarxa>601085</Domestic_xarxa>
     <Activitats_economicas>788604</Activitats_economicas>
     <Total>1389689</Total>
     <Consum_domestic_per_capita>120.9</Consum_domestic_per_capita>
@@ -4125,7 +4125,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>251226</Poblacio>
-    <Domestic_x0020_xarxa>12549882</Domestic_x0020_xarxa>
+    <Domestic_xarxa>12549882</Domestic_xarxa>
     <Activitats_economicas>38116024</Activitats_economicas>
     <Total>50665906</Total>
     <Consum_domestic_per_capita>136.86</Consum_domestic_per_capita>
@@ -4135,7 +4135,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>12310</Poblacio>
-    <Domestic_x0020_xarxa>431836</Domestic_x0020_xarxa>
+    <Domestic_xarxa>431836</Domestic_xarxa>
     <Activitats_economicas>216539</Activitats_economicas>
     <Total>648375</Total>
     <Consum_domestic_per_capita>96.11</Consum_domestic_per_capita>
@@ -4145,7 +4145,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36863</Poblacio>
-    <Domestic_x0020_xarxa>1451771</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1451771</Domestic_xarxa>
     <Activitats_economicas>949845</Activitats_economicas>
     <Total>2401616</Total>
     <Consum_domestic_per_capita>107.9</Consum_domestic_per_capita>
@@ -4155,7 +4155,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10090</Poblacio>
-    <Domestic_x0020_xarxa>1122614</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1122614</Domestic_xarxa>
     <Activitats_economicas>549732</Activitats_economicas>
     <Total>1672345</Total>
     <Consum_domestic_per_capita>304.82</Consum_domestic_per_capita>
@@ -4165,7 +4165,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>898921</Poblacio>
-    <Domestic_x0020_xarxa>35124562</Domestic_x0020_xarxa>
+    <Domestic_xarxa>35124562</Domestic_xarxa>
     <Activitats_economicas>23709406</Activitats_economicas>
     <Total>58833968</Total>
     <Consum_domestic_per_capita>107.05</Consum_domestic_per_capita>
@@ -4175,7 +4175,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>402989</Poblacio>
-    <Domestic_x0020_xarxa>16018513</Domestic_x0020_xarxa>
+    <Domestic_xarxa>16018513</Domestic_xarxa>
     <Activitats_economicas>13212124</Activitats_economicas>
     <Total>29230637</Total>
     <Consum_domestic_per_capita>108.9</Consum_domestic_per_capita>
@@ -4185,7 +4185,7 @@
     <Codi_comarca>1</Codi_comarca>
     <Comarca>ALT CAMP, L'</Comarca>
     <Poblacio>45299</Poblacio>
-    <Domestic_x0020_xarxa>1794009</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1794009</Domestic_xarxa>
     <Activitats_economicas>2578545</Activitats_economicas>
     <Total>4372554</Total>
     <Consum_domestic_per_capita>108.5</Consum_domestic_per_capita>
@@ -4195,7 +4195,7 @@
     <Codi_comarca>2</Codi_comarca>
     <Comarca>ALT EMPORDÀ, L'</Comarca>
     <Poblacio>141517</Poblacio>
-    <Domestic_x0020_xarxa>8582301</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8582301</Domestic_xarxa>
     <Activitats_economicas>4540324</Activitats_economicas>
     <Total>13122625</Total>
     <Consum_domestic_per_capita>166.15</Consum_domestic_per_capita>
@@ -4205,7 +4205,7 @@
     <Codi_comarca>3</Codi_comarca>
     <Comarca>ALT PENEDÈS, L'</Comarca>
     <Poblacio>106252</Poblacio>
-    <Domestic_x0020_xarxa>4452419</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4452419</Domestic_xarxa>
     <Activitats_economicas>3314181</Activitats_economicas>
     <Total>7766600</Total>
     <Consum_domestic_per_capita>114.81</Consum_domestic_per_capita>
@@ -4215,7 +4215,7 @@
     <Codi_comarca>4</Codi_comarca>
     <Comarca>ALT URGELL, L'</Comarca>
     <Poblacio>21386</Poblacio>
-    <Domestic_x0020_xarxa>973901</Domestic_x0020_xarxa>
+    <Domestic_xarxa>973901</Domestic_xarxa>
     <Activitats_economicas>1258703</Activitats_economicas>
     <Total>2232604</Total>
     <Consum_domestic_per_capita>124.76</Consum_domestic_per_capita>
@@ -4225,7 +4225,7 @@
     <Codi_comarca>5</Codi_comarca>
     <Comarca>ALTA RIBAGORÇA, L'</Comarca>
     <Poblacio>4235</Poblacio>
-    <Domestic_x0020_xarxa>330192</Domestic_x0020_xarxa>
+    <Domestic_xarxa>330192</Domestic_xarxa>
     <Activitats_economicas>259940</Activitats_economicas>
     <Total>590132</Total>
     <Consum_domestic_per_capita>213.61</Consum_domestic_per_capita>
@@ -4235,7 +4235,7 @@
     <Codi_comarca>6</Codi_comarca>
     <Comarca>ANOIA, L'</Comarca>
     <Poblacio>118817</Poblacio>
-    <Domestic_x0020_xarxa>4971310</Domestic_x0020_xarxa>
+    <Domestic_xarxa>4971310</Domestic_xarxa>
     <Activitats_economicas>6916080</Activitats_economicas>
     <Total>11887390</Total>
     <Consum_domestic_per_capita>114.63</Consum_domestic_per_capita>
@@ -4245,7 +4245,7 @@
     <Codi_comarca>7</Codi_comarca>
     <Comarca>BAGES, EL</Comarca>
     <Poblacio>186084</Poblacio>
-    <Domestic_x0020_xarxa>7932563</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7932563</Domestic_xarxa>
     <Activitats_economicas>7582740</Activitats_economicas>
     <Total>15515303</Total>
     <Consum_domestic_per_capita>116.79</Consum_domestic_per_capita>
@@ -4255,7 +4255,7 @@
     <Codi_comarca>8</Codi_comarca>
     <Comarca>BAIX CAMP, EL</Comarca>
     <Poblacio>193535</Poblacio>
-    <Domestic_x0020_xarxa>10540527</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10540527</Domestic_xarxa>
     <Activitats_economicas>4394018</Activitats_economicas>
     <Total>14934544</Total>
     <Consum_domestic_per_capita>149.21</Consum_domestic_per_capita>
@@ -4265,7 +4265,7 @@
     <Codi_comarca>9</Codi_comarca>
     <Comarca>BAIX EBRE, EL</Comarca>
     <Poblacio>83125</Poblacio>
-    <Domestic_x0020_xarxa>3700682</Domestic_x0020_xarxa>
+    <Domestic_xarxa>3700682</Domestic_xarxa>
     <Activitats_economicas>4563251</Activitats_economicas>
     <Total>8263933</Total>
     <Consum_domestic_per_capita>121.97</Consum_domestic_per_capita>
@@ -4275,7 +4275,7 @@
     <Codi_comarca>10</Codi_comarca>
     <Comarca>BAIX EMPORDÀ, EL</Comarca>
     <Poblacio>133754</Poblacio>
-    <Domestic_x0020_xarxa>10422549</Domestic_x0020_xarxa>
+    <Domestic_xarxa>10422549</Domestic_xarxa>
     <Activitats_economicas>5390491</Activitats_economicas>
     <Total>15813040</Total>
     <Consum_domestic_per_capita>213.49</Consum_domestic_per_capita>
@@ -4285,7 +4285,7 @@
     <Codi_comarca>11</Codi_comarca>
     <Comarca>BAIX LLOBREGAT, EL</Comarca>
     <Poblacio>806799</Poblacio>
-    <Domestic_x0020_xarxa>32385719</Domestic_x0020_xarxa>
+    <Domestic_xarxa>32385719</Domestic_xarxa>
     <Activitats_economicas>25091638</Activitats_economicas>
     <Total>57477357</Total>
     <Consum_domestic_per_capita>109.98</Consum_domestic_per_capita>
@@ -4295,7 +4295,7 @@
     <Codi_comarca>12</Codi_comarca>
     <Comarca>BAIX PENEDÈS, EL</Comarca>
     <Poblacio>101138</Poblacio>
-    <Domestic_x0020_xarxa>6551468</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6551468</Domestic_xarxa>
     <Activitats_economicas>2440290</Activitats_economicas>
     <Total>8991758</Total>
     <Consum_domestic_per_capita>177.47</Consum_domestic_per_capita>
@@ -4305,7 +4305,7 @@
     <Codi_comarca>13</Codi_comarca>
     <Comarca>BARCELONÈS, EL</Comarca>
     <Poblacio>2254052</Poblacio>
-    <Domestic_x0020_xarxa>86155670</Domestic_x0020_xarxa>
+    <Domestic_xarxa>86155670</Domestic_xarxa>
     <Activitats_economicas>37154412</Activitats_economicas>
     <Total>123310082</Total>
     <Consum_domestic_per_capita>104.72</Consum_domestic_per_capita>
@@ -4315,7 +4315,7 @@
     <Codi_comarca>14</Codi_comarca>
     <Comarca>BERGUEDÀ, EL</Comarca>
     <Poblacio>41202</Poblacio>
-    <Domestic_x0020_xarxa>1459891</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1459891</Domestic_xarxa>
     <Activitats_economicas>1129545</Activitats_economicas>
     <Total>2589436</Total>
     <Consum_domestic_per_capita>97.08</Consum_domestic_per_capita>
@@ -4325,7 +4325,7 @@
     <Codi_comarca>15</Codi_comarca>
     <Comarca>CERDANYA, LA</Comarca>
     <Poblacio>19047</Poblacio>
-    <Domestic_x0020_xarxa>1412019</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1412019</Domestic_xarxa>
     <Activitats_economicas>1894932</Activitats_economicas>
     <Total>3306951</Total>
     <Consum_domestic_per_capita>203.11</Consum_domestic_per_capita>
@@ -4335,7 +4335,7 @@
     <Codi_comarca>16</Codi_comarca>
     <Comarca>CONCA DE BARBERÀ, LA</Comarca>
     <Poblacio>21148</Poblacio>
-    <Domestic_x0020_xarxa>863056</Domestic_x0020_xarxa>
+    <Domestic_xarxa>863056</Domestic_xarxa>
     <Activitats_economicas>466330</Activitats_economicas>
     <Total>1329386</Total>
     <Consum_domestic_per_capita>111.81</Consum_domestic_per_capita>
@@ -4345,7 +4345,7 @@
     <Codi_comarca>17</Codi_comarca>
     <Comarca>GARRAF, EL</Comarca>
     <Poblacio>147107</Poblacio>
-    <Domestic_x0020_xarxa>7785516</Domestic_x0020_xarxa>
+    <Domestic_xarxa>7785516</Domestic_xarxa>
     <Activitats_economicas>2645568</Activitats_economicas>
     <Total>10431084</Total>
     <Consum_domestic_per_capita>145</Consum_domestic_per_capita>
@@ -4355,7 +4355,7 @@
     <Codi_comarca>18</Codi_comarca>
     <Comarca>GARRIGUES, LES</Comarca>
     <Poblacio>20212</Poblacio>
-    <Domestic_x0020_xarxa>685024</Domestic_x0020_xarxa>
+    <Domestic_xarxa>685024</Domestic_xarxa>
     <Activitats_economicas>561195</Activitats_economicas>
     <Total>1246219</Total>
     <Consum_domestic_per_capita>92.85</Consum_domestic_per_capita>
@@ -4365,7 +4365,7 @@
     <Codi_comarca>19</Codi_comarca>
     <Comarca>GARROTXA, LA</Comarca>
     <Poblacio>55855</Poblacio>
-    <Domestic_x0020_xarxa>2343497</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2343497</Domestic_xarxa>
     <Activitats_economicas>3737840</Activitats_economicas>
     <Total>6081337</Total>
     <Consum_domestic_per_capita>114.95</Consum_domestic_per_capita>
@@ -4375,7 +4375,7 @@
     <Codi_comarca>20</Codi_comarca>
     <Comarca>GIRONÈS, EL</Comarca>
     <Poblacio>184187</Poblacio>
-    <Domestic_x0020_xarxa>6873505</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6873505</Domestic_xarxa>
     <Activitats_economicas>9548233</Activitats_economicas>
     <Total>16421738</Total>
     <Consum_domestic_per_capita>102.24</Consum_domestic_per_capita>
@@ -4385,7 +4385,7 @@
     <Codi_comarca>21</Codi_comarca>
     <Comarca>MARESME, EL</Comarca>
     <Poblacio>436487</Poblacio>
-    <Domestic_x0020_xarxa>21427948</Domestic_x0020_xarxa>
+    <Domestic_xarxa>21427948</Domestic_xarxa>
     <Activitats_economicas>9270980</Activitats_economicas>
     <Total>30698928</Total>
     <Consum_domestic_per_capita>134.5</Consum_domestic_per_capita>
@@ -4395,7 +4395,7 @@
     <Codi_comarca>22</Codi_comarca>
     <Comarca>MONTSIÀ, EL</Comarca>
     <Poblacio>72121</Poblacio>
-    <Domestic_x0020_xarxa>2820336</Domestic_x0020_xarxa>
+    <Domestic_xarxa>2820336</Domestic_xarxa>
     <Activitats_economicas>1906032</Activitats_economicas>
     <Total>4726368</Total>
     <Consum_domestic_per_capita>107.14</Consum_domestic_per_capita>
@@ -4405,7 +4405,7 @@
     <Codi_comarca>23</Codi_comarca>
     <Comarca>NOGUERA, LA</Comarca>
     <Poblacio>40200</Poblacio>
-    <Domestic_x0020_xarxa>1805873</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1805873</Domestic_xarxa>
     <Activitats_economicas>1552735</Activitats_economicas>
     <Total>3358608</Total>
     <Consum_domestic_per_capita>123.07</Consum_domestic_per_capita>
@@ -4415,7 +4415,7 @@
     <Codi_comarca>24</Codi_comarca>
     <Comarca>OSONA</Comarca>
     <Poblacio>154588</Poblacio>
-    <Domestic_x0020_xarxa>6258682</Domestic_x0020_xarxa>
+    <Domestic_xarxa>6258682</Domestic_xarxa>
     <Activitats_economicas>6921381</Activitats_economicas>
     <Total>13180063</Total>
     <Consum_domestic_per_capita>110.92</Consum_domestic_per_capita>
@@ -4425,7 +4425,7 @@
     <Codi_comarca>25</Codi_comarca>
     <Comarca>PALLARS JUSSÀ, EL</Comarca>
     <Poblacio>14113</Poblacio>
-    <Domestic_x0020_xarxa>787315</Domestic_x0020_xarxa>
+    <Domestic_xarxa>787315</Domestic_xarxa>
     <Activitats_economicas>282936</Activitats_economicas>
     <Total>1070251</Total>
     <Consum_domestic_per_capita>152.84</Consum_domestic_per_capita>
@@ -4435,7 +4435,7 @@
     <Codi_comarca>26</Codi_comarca>
     <Comarca>PALLARS SOBIRÀ, EL</Comarca>
     <Poblacio>7457</Poblacio>
-    <Domestic_x0020_xarxa>529020</Domestic_x0020_xarxa>
+    <Domestic_xarxa>529020</Domestic_xarxa>
     <Activitats_economicas>657883</Activitats_economicas>
     <Total>1186903</Total>
     <Consum_domestic_per_capita>194.36</Consum_domestic_per_capita>
@@ -4445,7 +4445,7 @@
     <Codi_comarca>27</Codi_comarca>
     <Comarca>PLA D'URGELL, EL</Comarca>
     <Poblacio>37267</Poblacio>
-    <Domestic_x0020_xarxa>1552508</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1552508</Domestic_xarxa>
     <Activitats_economicas>3962969</Activitats_economicas>
     <Total>5515477</Total>
     <Consum_domestic_per_capita>114.13</Consum_domestic_per_capita>
@@ -4455,7 +4455,7 @@
     <Codi_comarca>28</Codi_comarca>
     <Comarca>PLA DE L'ESTANY, EL</Comarca>
     <Poblacio>31463</Poblacio>
-    <Domestic_x0020_xarxa>1443741</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1443741</Domestic_xarxa>
     <Activitats_economicas>1029743</Activitats_economicas>
     <Total>2473483</Total>
     <Consum_domestic_per_capita>125.72</Consum_domestic_per_capita>
@@ -4465,7 +4465,7 @@
     <Codi_comarca>29</Codi_comarca>
     <Comarca>PRIORAT, EL</Comarca>
     <Poblacio>9971</Poblacio>
-    <Domestic_x0020_xarxa>380638</Domestic_x0020_xarxa>
+    <Domestic_xarxa>380638</Domestic_xarxa>
     <Activitats_economicas>111138</Activitats_economicas>
     <Total>491776</Total>
     <Consum_domestic_per_capita>104.59</Consum_domestic_per_capita>
@@ -4475,7 +4475,7 @@
     <Codi_comarca>30</Codi_comarca>
     <Comarca>RIBERA D'EBRE, LA</Comarca>
     <Poblacio>23867</Poblacio>
-    <Domestic_x0020_xarxa>958837</Domestic_x0020_xarxa>
+    <Domestic_xarxa>958837</Domestic_xarxa>
     <Activitats_economicas>8135751</Activitats_economicas>
     <Total>9094588</Total>
     <Consum_domestic_per_capita>110.07</Consum_domestic_per_capita>
@@ -4485,7 +4485,7 @@
     <Codi_comarca>31</Codi_comarca>
     <Comarca>RIPOLLÈS, EL</Comarca>
     <Poblacio>26268</Poblacio>
-    <Domestic_x0020_xarxa>1180825</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1180825</Domestic_xarxa>
     <Activitats_economicas>1211295</Activitats_economicas>
     <Total>2392120</Total>
     <Consum_domestic_per_capita>123.16</Consum_domestic_per_capita>
@@ -4495,7 +4495,7 @@
     <Codi_comarca>32</Codi_comarca>
     <Comarca>SEGARRA, LA</Comarca>
     <Poblacio>23365</Poblacio>
-    <Domestic_x0020_xarxa>825951</Domestic_x0020_xarxa>
+    <Domestic_xarxa>825951</Domestic_xarxa>
     <Activitats_economicas>1662250</Activitats_economicas>
     <Total>2488201</Total>
     <Consum_domestic_per_capita>97.69</Consum_domestic_per_capita>
@@ -4505,7 +4505,7 @@
     <Codi_comarca>33</Codi_comarca>
     <Comarca>SEGRIÀ, EL</Comarca>
     <Poblacio>209965</Poblacio>
-    <Domestic_x0020_xarxa>9425056</Domestic_x0020_xarxa>
+    <Domestic_xarxa>9425056</Domestic_xarxa>
     <Activitats_economicas>7292915</Activitats_economicas>
     <Total>16717971</Total>
     <Consum_domestic_per_capita>122.98</Consum_domestic_per_capita>
@@ -4515,7 +4515,7 @@
     <Codi_comarca>34</Codi_comarca>
     <Comarca>SELVA, LA</Comarca>
     <Poblacio>173518</Poblacio>
-    <Domestic_x0020_xarxa>8924994</Domestic_x0020_xarxa>
+    <Domestic_xarxa>8924994</Domestic_xarxa>
     <Activitats_economicas>10043830</Activitats_economicas>
     <Total>18968824</Total>
     <Consum_domestic_per_capita>140.92</Consum_domestic_per_capita>
@@ -4525,7 +4525,7 @@
     <Codi_comarca>35</Codi_comarca>
     <Comarca>SOLSONÈS, EL</Comarca>
     <Poblacio>13676</Poblacio>
-    <Domestic_x0020_xarxa>640383</Domestic_x0020_xarxa>
+    <Domestic_xarxa>640383</Domestic_xarxa>
     <Activitats_economicas>492441</Activitats_economicas>
     <Total>1132824</Total>
     <Consum_domestic_per_capita>128.29</Consum_domestic_per_capita>
@@ -4535,7 +4535,7 @@
     <Codi_comarca>36</Codi_comarca>
     <Comarca>TARRAGONÈS, EL</Comarca>
     <Poblacio>251282</Poblacio>
-    <Domestic_x0020_xarxa>13680558</Domestic_x0020_xarxa>
+    <Domestic_xarxa>13680558</Domestic_xarxa>
     <Activitats_economicas>41772215</Activitats_economicas>
     <Total>55452773</Total>
     <Consum_domestic_per_capita>149.16</Consum_domestic_per_capita>
@@ -4545,7 +4545,7 @@
     <Codi_comarca>37</Codi_comarca>
     <Comarca>TERRA ALTA</Comarca>
     <Poblacio>12713</Poblacio>
-    <Domestic_x0020_xarxa>441824</Domestic_x0020_xarxa>
+    <Domestic_xarxa>441824</Domestic_xarxa>
     <Activitats_economicas>225143</Activitats_economicas>
     <Total>666967</Total>
     <Consum_domestic_per_capita>95.22</Consum_domestic_per_capita>
@@ -4555,7 +4555,7 @@
     <Codi_comarca>38</Codi_comarca>
     <Comarca>URGELL, L'</Comarca>
     <Poblacio>36975</Poblacio>
-    <Domestic_x0020_xarxa>1543234</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1543234</Domestic_xarxa>
     <Activitats_economicas>1422857</Activitats_economicas>
     <Total>2966091</Total>
     <Consum_domestic_per_capita>114.35</Consum_domestic_per_capita>
@@ -4565,7 +4565,7 @@
     <Codi_comarca>39</Codi_comarca>
     <Comarca>VAL D'ARAN, LA</Comarca>
     <Poblacio>10056</Poblacio>
-    <Domestic_x0020_xarxa>1112630</Domestic_x0020_xarxa>
+    <Domestic_xarxa>1112630</Domestic_xarxa>
     <Activitats_economicas>731409</Activitats_economicas>
     <Total>1844038</Total>
     <Consum_domestic_per_capita>303.13</Consum_domestic_per_capita>
@@ -4575,7 +4575,7 @@
     <Codi_comarca>40</Codi_comarca>
     <Comarca>VALLÈS OCCIDENTAL, EL</Comarca>
     <Poblacio>898173</Poblacio>
-    <Domestic_x0020_xarxa>36611134</Domestic_x0020_xarxa>
+    <Domestic_xarxa>36611134</Domestic_xarxa>
     <Activitats_economicas>25651000</Activitats_economicas>
     <Total>62262134</Total>
     <Consum_domestic_per_capita>111.68</Consum_domestic_per_capita>
@@ -4585,7 +4585,7 @@
     <Codi_comarca>41</Codi_comarca>
     <Comarca>VALLÈS ORIENTAL, EL</Comarca>
     <Poblacio>402632</Poblacio>
-    <Domestic_x0020_xarxa>17020094</Domestic_x0020_xarxa>
+    <Domestic_xarxa>17020094</Domestic_xarxa>
     <Activitats_economicas>14216816</Activitats_economicas>
     <Total>31236910</Total>
     <Consum_domestic_per_capita>115.81</Consum_domestic_per_capita>

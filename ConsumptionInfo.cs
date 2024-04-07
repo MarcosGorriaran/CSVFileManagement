@@ -15,7 +15,7 @@ namespace M3UF5CSVFileManagement
         public string LocName { get; set; }
         [XmlElement("Poblacio")]
         public int Population {  get; set; }
-        [XmlElement("Domestic xarxa")]
+        [XmlElement("Domestic_xarxa")]
         public int HouseNet {  get; set; }
         [XmlElement("Activitats_economicas")]
         public int EconomicAct {  get; set; }
