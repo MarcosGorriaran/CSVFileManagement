@@ -67,5 +67,16 @@ namespace M3UF5CSVFileManagement
             }
             return result;
         }
+        public static Dictionary<string,float> GetAvarage<Class>(List<Class> list, Func<Class,object> groupElement, Func<Class,float>avgValue, Func<Class,string> keyValue)
+        {
+            var query = from element in list
+                         group element by groupElement(element);
+            Dictionary<string, float> result=new Dictionary<string, float>();
+            foreach(var item in query)
+            {
+                result.Add(keyValue(item.First()), item.Average(avgValue));
+            }
+            return result;
+        }
     }
 }

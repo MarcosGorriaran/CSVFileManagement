@@ -17,7 +17,7 @@ public class Driver
             "Pick an option: ";
         const string ErrorOutsideRange = "The specified value is outside the menu options";
         const string OverSearchAmountTitle = "List of populations over {0}: ";
-        const string AvgSearchResultShow = "The avarage house expense is {0}";
+        const string AvgSearchResultShow = "{0}: {1}";
         const string BiggestExpensesResult = "The top {0} biggest house expenses are the following: ";
         const string LowestExpenseResult = "The top {0} lowest house expenses are the following: ";
         const string ShowSpecifiedInfo = "Ths is the information recovered from the selected code";
@@ -93,7 +93,11 @@ public class Driver
                     }
                     break;
                 case FindAvgExpenses:
-                    Console.WriteLine(AvgSearchResultShow,groupInfo.Average(info=>info.HouseExpenseCapita));
+                    Dictionary<string, float> keyValuePairs = CRUD.GetAvarage(groupInfo,info=>info.LocName,info=>info.HouseExpenseCapita,info=>info.LocName);
+                    foreach(KeyValuePair<string,float> element in keyValuePairs)
+                    {
+                        Console.WriteLine(AvgSearchResultShow,element.Key, element.Value);
+                    }
                     break;
                 case FindHighestExpenses:
                     filteredInfo = CRUD.OrderBy(groupInfo,info=>info.HouseExpenseCapita,LimitSearch,false);
