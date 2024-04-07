@@ -1,5 +1,4 @@
-﻿
-
+﻿using CsvHelper.Configuration.Attributes;
 using System.Xml.Serialization;
 
 namespace M3UF5CSVFileManagement
@@ -8,20 +7,28 @@ namespace M3UF5CSVFileManagement
     public class ConsumptionInfo
     {
         [XmlElement("Any")]
+        [Name("Any")]
         public int Year { get; set; }
         [XmlElement("Codi_comarca")]
+        [Name("Codi comarca")]
         public int LocCode { get; set; }
         [XmlElement("Comarca")]
+        [Name("Comarca")]
         public string LocName { get; set; }
         [XmlElement("Poblacio")]
+        [Name("Població")]
         public int Population {  get; set; }
         [XmlElement("Domestic_xarxa")]
+        [Name("Domèstic xarxa")]
         public int HouseNet {  get; set; }
         [XmlElement("Activitats_economicas")]
+        [Name("Activitats econòmiques i fonts pròpies")]
         public int EconomicAct {  get; set; }
         [XmlElement("Total")]
+        [Name("Total")]
         public int Total {  get; set; }
         [XmlElement("Consum_domestic_per_capita")]
+        [Name("Consum domèstic per càpita")]
         public float HouseExpenseCapita {  get; set; }
 
         public static void XMLSerializeGroup(List<ConsumptionInfo> groupInfo)

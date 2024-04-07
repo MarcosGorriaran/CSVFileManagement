@@ -1,8 +1,4 @@
-﻿using CsvHelper;
-using System.Globalization;
-using System.Xml.Serialization;
-
-namespace M3UF5CSVFileManagement;
+﻿namespace M3UF5CSVFileManagement;
 
 public class Driver
 {
@@ -44,7 +40,7 @@ public class Driver
         List<ConsumptionInfo> groupInfo;
         List<ConsumptionInfo> filteredInfo;
         using (StreamReader reader = new StreamReader(CSVFileName)) {
-            groupInfo = CRUD.CSVDeserialize<ConsumptionInfo,ConsumptionInfoCSVMap>(reader);
+            groupInfo = CRUD.CSVDeserialize<ConsumptionInfo>(reader);
         }
         do
         {

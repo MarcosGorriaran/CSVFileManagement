@@ -1,7 +1,6 @@
 ﻿using CsvHelper;
 using System.Globalization;
 using CsvHelper.Configuration;
-using System.Reflection.PortableExecutable;
 using System.Xml.Serialization;
 
 namespace M3UF5CSVFileManagement
@@ -14,6 +13,14 @@ namespace M3UF5CSVFileManagement
             using CsvReader excelReader = new CsvReader(reader, CultureInfo.InvariantCulture);
 
             excelReader.Context.RegisterClassMap<TMap>();
+            result = excelReader.GetRecords<Class>().ToList();
+            return result;
+        }
+        public static List<Class> CSVDeserialize<Class>(StreamReader reader)
+        {
+            List<Class> result;
+            using CsvReader excelReader = new CsvReader(reader, CultureInfo.InvariantCulture);
+
             result = excelReader.GetRecords<Class>().ToList();
             return result;
         }
