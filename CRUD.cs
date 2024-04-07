@@ -31,5 +31,34 @@ namespace M3UF5CSVFileManagement
 
             return result;
         }
+        public static List<Class> SearchOnList<Class>(List<Class> list, Func<Class, bool> condition)
+        {
+            List<Class> result;
+
+            result = (from element in list
+                      where condition(element)
+                      select element).ToList();
+
+            return result;
+        }
+        public static List<Class> OrderBy<Class>(List<Class> list, Func<Class, object> orderElement, int limit, bool orderAsc)
+        {
+            List<Class> result;
+            if (!orderAsc)
+            {
+                var procesingData = from element in list
+                                    orderby orderElement(element)
+                                    select element;
+                result = procesingData.Take(limit).ToList();
+            }
+            else
+            {
+                var procesingData = from element in list
+                                    orderby orderElement(element) descending
+                                    select element;
+                result = procesingData.Take(limit).ToList();
+            }
+            return result;
+        }
     }
 }
